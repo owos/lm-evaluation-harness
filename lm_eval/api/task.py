@@ -3,6 +3,7 @@ import ast
 import logging
 import random
 import re
+import os
 from collections.abc import Callable
 from copy import deepcopy
 from dataclasses import asdict, dataclass
@@ -926,11 +927,25 @@ class ConfigurableTask(Task):
                     )
 
     def download(self, dataset_kwargs: Optional[Dict[str, Any]] = None) -> None:
-        self.dataset = datasets.load_dataset(
-            path=self.DATASET_PATH,
-            name=self.DATASET_NAME,
-            **dataset_kwargs if dataset_kwargs is not None else {},
-        )
+        
+        #if self.DATASET_PATH is dir that exists, load from dir
+        if self.DATASET_PATH is not None and os.path.exists(self.DATASET_PATH):
+            self.dataset = datasets.load_dataset(
+                "csv", 
+                data_files=self.DATASET_PATH,
+                **dataset_kwargs if dataset_kwargs is not None else {},
+            )
+            self.dataset = datasets.DatasetDict({
+            "train": self.dataset['train'],
+            "test": self.dataset['train']
+            })
+
+        else:
+            self.dataset = datasets.load_dataset(
+                path=self.DATASET_PATH,
+                name=self.DATASET_NAME,
+                **dataset_kwargs if dataset_kwargs is not None else {},
+            )
 
     def has_training_docs(self) -> bool:
         if self.config.training_split is not None:

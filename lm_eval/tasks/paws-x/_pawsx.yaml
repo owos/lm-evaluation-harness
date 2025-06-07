@@ -7,6 +7,8 @@ task:
   - paws_ja
   - paws_ko
   - paws_zh
+  - paws_sw
+  - paws_ur
 aggregate_metric_list:
   - metric: acc
     aggregation: mean

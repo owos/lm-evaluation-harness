@@ -11,6 +11,8 @@ task:
   - xcopa_tr
   - xcopa_vi
   - xcopa_zh
+  - xcopa_gl
+  - xcopa_ur
 aggregate_metric_list:
   - metric: acc
     aggregation: mean
