@@ -27,7 +27,6 @@ ipython_config.py
 
 # Output and data
 output/
-data/
 temp/
 test_logs/
 
@@ -45,4 +44,3 @@ examples/wandb/
 
 # PyInstaller
 *.spec
-results/

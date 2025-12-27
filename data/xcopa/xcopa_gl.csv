@@ -1,0 +1,501 @@
+premise,choice1,choice2,question,label,idx,changed
+O dispositivo estaba envolto nunha bolsa cega.,Foi fácil romper.,Era pequeno.,cause,0,0,False
+Deixei as maletas baleiras.,Volvín a ter outra peza de billete.,Vin unha arma.,effect,0,1,False
+As formigas invadiron a casa.,As formigas saíron da casa.,As formigas comían pola madeira dentro da casa.,effect,1,2,False
+Os viaxeiros chegaron á fronteira.,O oficial de patrulla inspeccionou os seus pasaportes.,O oficial de patrullas acusounos de contrabando.,effect,0,3,False
+A oficina estaba pechada.,Foi un día de descanso.,Era verán.,cause,0,4,False
+A rapaza perdeu a forza.,Xogou ao borrador.,Saltou a corda.,cause,1,5,False
+A muller perdeu o seu lugar na liña.,Máis xente aliñada.,Saíu da liña.,cause,1,6,False
+Non pinchar o nariz.,O bebé espetou na boca.,O bebé suciou o cueiro.,cause,1,7,False
+A banda interpretou a súa canción favorita.,O público aplaudiu seguindo a música.,O público escoitou con calma e silencio.,effect,0,8,False
+A rapaza quixo agradecerlle ao seu profesor de matemáticas.,A rapaza permaneceu baixo custodia despois da escola.,A rapaza trouxo mazás ao seu profesor.,effect,1,9,False
+O pequeno campista sentíase nervioso.,O seu conselleiro do campamento contoulles as historias de pantasmas.,Eles prenderon lume á fogueira.,cause,0,10,False
+O home golpeou a cabeza.,Perdeuse no pensamento.,Perdeu a consciencia.,effect,1,11,False
+O cheque que escribín foi abandonado.,A miña conta bancaria estaba baleira.,Recibín un aumento salarial.,cause,0,12,False
+A caixa de entrada de correo electrónico do home está chea de spam.,Eliminou o spam.,Enviou un correo electrónico público.,effect,0,13,False
+O mariñeiro estaba illado.,A ela lle diagnosticaron a enfermidade.,Recuperouse da enfermidade.,cause,0,14,False
+A rapaza memorizou o código.,Memorizouno.,Esqueceu anotalo.,effect,0,15,False
+Botei auga nun vaso.,A auga apagou a miña sede.,A auga estaba chea.,effect,1,16,False
+O home permaneceu en silencio cando o seu amigo acabou de falar.,Quería darlle axuda ao seu amigo.,Estaba pensando nas palabras do seu amigo.,cause,1,17,False
+O accidente foi culpa miña.,Sentinme culpable.,Presentei unha demanda.,effect,0,18,False
+O colar estaba moi afastado.,Un colar foi envolto arredor do neumático.,Había un vínculo roto no colar.,cause,1,19,False
+A parella decidiu chegar a un acordo.,Estaban cansados ​​de discutir.,Eles correron para discutir o problema.,cause,0,20,False
+A muller decidiu dirixir un cargo público.,Contratou a un xestor de campañas.,Testificou no xulgado.,effect,0,21,False
+O home anticipou o clima frío na súa viaxe.,Organizou roupa quente dentro da súa caixa.,Viaxou cunha caixa grande.,effect,0,22,False
+O alumno sabía a resposta á pregunta.,Levantou a man.,Non lle importaba.,effect,0,23,False
+Os ollos do home cheos de bágoas.,O po instalouse nos seus ollos.,Levaba lentes de sol sobre os ollos.,cause,0,24,False
+O xogador gañou dez partidos seguidos.,O seu rival acusouno de fraude.,O seu rival sentíase pena por el.,effect,0,25,False
+O profesor rompeu a proba do alumno.,Arrestou a un estudante por fraude.,A resposta do alumno foi incorrecta.,cause,0,26,False
+Desexei deixar de falar.,Perdín a voz.,Estaba sen alento.,cause,1,27,False
+Comida conxelada derretida.,Poño no microondas.,Cubrín con folla de plástico.,cause,0,28,False
+O empregado forxou a picadura.,Tiña problemas de estómago.,Quería un día de descanso.,cause,1,29,False
+A rapaza baixou á piscina.,Corría sobre o bordo da piscina.,Saltou dun obxectivo de mergullo.,cause,1,30,False
+As entradas de películas están esgotadas.,Foi o día de lanzamento da película.,A película recibe comentarios negativos.,cause,0,31,False
+O home perdeu peso.,A xente o exclúe.,A xente está encomiándoo.,effect,1,32,False
+As mans da rapaza eran ampollas.,Escribiu a carta.,Montou a corda.,cause,1,33,False
+O acróbata enganouse mentres andaba nunha bicicleta dun só anel.,O público animouno con sorpresa.,O acróbata colgou do balance.,effect,0,34,False
+Perdín a miña paciencia.,O meu amigo fíxome agardar por el.,O meu amigo chegou a tempo.,cause,0,35,False
+As nacións en guerra querían paz.,Desenvolveron armas nucleares.,Negociaron un contrato.,effect,1,36,False
+O home estaba tomando pastillas para durmir.,Fíxose somnolento.,Ten febre.,effect,0,37,False
+A muller foi golpeada por unha cadeira.,Abriuse a perna da cadeira.,Falou o xeonllo.,effect,1,38,False
+O rapaz soprou o globo.,O cego foi curado.,O cego saltou cara arriba.,effect,0,39,False
+Os viaxeiros inspeccionaron o interior da habitación do hotel.,Desempaquetaron a equipaxe.,Foron ao aeroporto.,effect,0,40,False
+Morden a gripe.,Totalmente ferido.,O zume derramouse.,effect,1,41,False
+A miña man estivo quedando fóra.,Comín unha rosquilla.,Teño unha deliciosa comida.,cause,0,42,False
+Abrín a porta.,A porta abriuse.,A porta caeu pechada.,effect,0,43,False
+Os activistas boicotearon o produto.,Os produtos foron valorados para a garantía de calidade.,Os produtos fixéronse a través do traballo infantil.,cause,1,44,False
+Perforei un burato na parede.,A rata arrastrouse do burato.,O po soprou do burato.,effect,1,45,False
+A muller estaba celosa da súa irmá.,A súa irmá estaba feliz.,A súa irmá estaba divorciada.,cause,0,46,False
+Botei viño sobre a miña camisa.,Eu levaba un delantal.,Cambiei a miña camisa.,effect,1,47,False
+O caixeiro abriu os libros de caixa.,O cliente buscou a súa carteira.,O cliente entregoulle o diñeiro.,cause,1,48,False
+O músico actuando na rúa atraeu á multitude.,A xente deulle unha moeda.,Afastou a multitude.,effect,0,49,False
+O pequeno chorou polo seu gardián.,Anhelaba ver aos seus pais.,Era hora de comer.,effect,0,50,True
+O radar do piloto detectou unha tormenta.,O piloto retirouse da tormenta.,O piloto voou cara á tormenta.,effect,0,51,False
+A árbore caeu as súas follas.,As follas cambiaron de cor.,As follas reuníronse na parte inferior.,effect,1,52,False
+O rapaz estaba en estado de choque.,Decidiu xogar ás cartas coa súa irmá.,Decidiu xogar un xogo de broma coa súa irmá.,effect,1,53,False
+O neno lamentou que quería ir ao baño.,O seu pai deulle unha copa e unha copa.,Papá estacionou o coche nunha gasolineira.,effect,1,54,False
+O bebé pulverizou comida de peixe no tanque.,O peixe saltou do tanque.,O peixe nadou cara á comida.,effect,1,55,False
+A perspectiva política da muller cambiou.,Cambiou as súas relacións de partido.,Volveuse involucrado nunha folga.,effect,0,56,False
+O lavabo do aseo foi obstruído.,Acendín a billa.,Inserín un dispositivo de limpeza nel.,effect,1,57,False
+Os pasaxeiros saíron do tren.,O tren chegou á estación.,O tren soprou a sirena.,cause,0,58,False
+Os homes empuxaron pola á húmida.,Puxo un selo no sobre.,Pechou o sobre.,effect,1,59,False
+Os amigos perderon o contacto.,Gustáronlles estar preto uns dos outros.,Trasladáronse a diferentes cidades.,cause,1,60,False
+O contable non conseguiu xestionar as finanzas da compañía.,Foi eliminado da súa posición.,Ela foi de permiso de maternidade.,effect,0,61,False
+Mirei o reloxo.,Oín o son do reloxo.,Quería saber a que hora era.,effect,1,62,False
+A miña man doía.,Escribín o ensaio a man.,A miña muller e eu agarramos as mans.,effect,0,63,False
+Komeo apertouse.,Cambiei a cucharada.,Enrolei un destornillador.,effect,1,64,False
+A parella asinou un acordo de aluguer para o apartamento.,A parella mudouse a un apartamento.,O Concello demoliu a casa.,effect,0,65,False
+A muller sentouse fóra no consello.,Quería ver o sol baixar.,Pensou que viu tronos.,cause,0,66,False
+O home levaba un chaleco salvavidas.,Non podía nadar.,A auga era pouco profunda.,cause,0,67,False
+A muller cometeu un erro dentro do procesador de texto.,Eliminou o documento.,Presionou o botón posterior.,effect,1,68,False
+A rapaza presumiu ás súas amigas.,Ten unha mala nota.,Gañou o concurso.,cause,1,69,False
+O xardín estaba fangoso.,Choveu pola noite.,Estaba cheo de herbas daniñas.,effect,0,70,False
+A muller durmía rapidamente.,Permaneceu no hotel pola noite.,Esqueceu axustar o seu espertador.,cause,1,71,False
+O home leva un protector solar.,Sentou á sombra.,Foi á praia.,cause,1,72,False
+Os investigadores confirmaron a teoría.,Os investigadores desestimaron a teoría.,A xente aceptou a teoría.,effect,1,73,False
+Os fans no partido ruxiron.,O encontro entrou no tempo extra.,O árbitro tomou a decisión incorrecta.,cause,1,74,False
+Inserín os números secretos no bloqueo.,Bloqueei o bloqueo.,Abriuse o bloqueo.,effect,1,75,False
+A multitude aumentou.,O pai deu cartos ao seu fillo.,O pai agarrou a man do seu fillo.,effect,1,76,False
+O xeo bloqueara o camiño.,Recollín a neve nunha bola de neve.,Eliminei a neve do camiño.,effect,1,77,False
+Os remeiros golpearon os seus remos.,O kayak aterrou na praia.,O kayak golpeou a onda.,effect,0,78,False
+A moza perdeu a dirección da súa bicicleta.,Soltou o volante.,Pegouse contra a parede.,effect,1,79,False
+Acendín o ventilador.,A auga derramouse na miña pel.,Sentín o aire frío pasando por min.,effect,1,80,False
+Os mariñeiros do mar volveron á costa.,Estaban cheos de humidade.,Viron ao Papa.,effect,1,81,False
+Tirei o tapón da billa á bañeira.,A auga fluía na conca.,Auga espallada no chan.,effect,0,82,False
+O marido sentiuse culpable por insultar á súa muller.,Acusouna de deshonestidade.,Confesoulle a súa infidelidade.,effect,1,83,False
+A tinta do cartel pegouse.,Agardei a secar a tinta.,Botei auga no cartel.,cause,1,84,False
+O bebé espertou chorando.,Tiña un mal soño.,Fixo a cama.,cause,0,85,False
+O rapaz puxo os pés sobre a mesa.,O seu pai sentouse na mesa.,O seu pai reprochouno.,effect,1,86,False
+O meu amigo deu a cabeza ao meu lado.,Chamei o seu nome.,Eu agitei.,cause,0,87,False
+O goberno oprimiu aos seus cidadáns.,Os cidadáns representaron a rebelión.,Os cidadáns rexistrados para votar.,effect,0,88,False
+O rapaz desapareceu no bosque.,Lanzou a súa tenda.,Chorou por axuda.,effect,1,89,False
+A muller viaxou ao estranxeiro.,Quería aprender a debuxar.,Quería aprender sobre outra cultura.,cause,1,90,False
+O home estaba celoso do seu compañeiro de traballo.,Promoveuse un compañeiro.,Un compañeiro de traballo traballou ata tarde da noite.,cause,0,91,False
+O home foi testemuña de criaturas doutro planeta.,Estaba pensando en cousas imaxinarias.,Meditaba.,cause,0,92,False
+O pelo do home volveuse dourado.,Puxo un lixivia nel.,Puxo un xampú nel.,cause,0,93,False
+O artista creou unha nova obra.,Criticou o seu traballo anterior.,Sentíase obrigado a atopar motivación.,cause,1,94,False
+O bebé mudouse da casa.,Fora liberado do exército.,Ía á universidade.,cause,1,95,False
+Os libros caeron na librería.,Os andeis estaban cubertos de po.,O terremoto sacudiu a librería.,cause,1,96,False
+A electricidade da miña casa está apagada.,Acendín as luces.,Axustei o fusible.,effect,1,97,False
+Fomos transportados por un recipiente a un parque de atraccións.,Esta ferramenta foi aterradora.,Esta ferramenta foi divertida.,effect,1,98,False
+A bolsa de autobús comezou a caer.,Botei a manteiga nunha bolsa.,Prendeino a lume no microondas.,cause,1,99,False
+A árbore caeu nun fío eléctrico.,A electricidade saíu na rúa.,A previsión prevía fortes ventos.,effect,0,100,False
+O portavoz fixo un comentario politicamente incorrecto.,Molestou ao público.,Molestou ao público.,effect,1,101,False
+Apuqueime con pinos.,As gotas de suor caeron da miña cara.,Unha gota de sangue levantouse do dedo.,effect,1,102,False
+O peixe flotaba na superficie do barril.,Tiña fame.,Estaba morto.,cause,1,103,False
+A voz dun home seco.,Ten a gripe.,Deixou de fumar.,cause,0,104,False
+Abriuse a porta do ascensor.,O ascensor chegou ao chan seleccionado.,O ascensor conxelouse no medio do chan.,cause,0,105,False
+O mozo entrou na casa.,Enganou aos seus anciáns.,Os seus pais impedíronlle marchar.,cause,1,106,False
+O baño estaba cheo de auga.,O baño estaba desbordado.,O tanque de auga quente foi danado.,cause,0,107,False
+O pequeno can sentouse xunto ao seu dono.,O dono mantivo un can pequeno para el.,O dono puxo ao can pequeno nunha cadea.,cause,1,108,False
+O home atopou a súa semellanza.,Estaba baixo unha árbore dispersa.,Estaba nun lago tranquilo.,cause,1,109,False
+Botei de menos a chamada de teléfono da miña moza.,Chamei de novo.,Coñecino para cear.,effect,0,110,False
+A familia estaba na rúa.,O can corría a casa.,Perderon xoias caras na súa casa.,cause,0,111,False
+Notei o meu alento mentres respiraba profundamente.,O tempo estaba tranquilo.,O peito sentiuse axustado.,cause,0,112,False
+Os empregados formaron unha federación.,Querían un mellor ambiente de traballo.,O seu empresario engadiu un salario.,cause,0,113,False
+Cocín unha empanada de mazá.,O fedor da putrefacción encheu a cociña.,Un aroma agradable encheu a cociña.,effect,1,114,False
+A muller tivo dificultades para camiñar.,Levaba zapatos con tacóns altos.,Quitouse os zapatos.,cause,0,115,False
+O vapor saíu da auga.,A auga fervía.,Cubrín a pota.,cause,0,116,False
+Todos os meus calcetíns están na roupa.,Eu levaba chaira.,Eu levaba botas.,effect,0,117,False
+O argumento do político considerábase absurdo.,Perdeu o apoio dos votantes.,Foi acusado de corrupción.,effect,0,118,False
+Cada un negouse ata a data.,A parella quedou embarazada.,Os amantes fuxiron.,effect,1,119,False
+O edificio estaba especializado para millonarios.,O millonario quería que o edificio demolido.,Un millonario doou cartos para construílo.,cause,1,120,False
+O compañeiro de vendas acusou á moza de roubar.,O compañeiro de vendas viu á rapaza metendo o produto na súa carteira.,O compañeiro de vendas axudou á moza a atopar a súa carteira favorita.,cause,0,121,False
+O país declarou a guerra nas áreas circundantes.,Os soldados foron enviados para loitar.,Os soldados reuníronse coas súas familias.,effect,0,122,False
+Os tribunais confirmaron a controvertida decisión.,A violencia estalou diante do xulgado.,A parella intercambiou votos diante do xulgado.,effect,0,123,False
+A rapaza cheiraba algo queimaba.,Sacou os biscoitos da botella.,Deixou os biscoitos no forno.,cause,1,124,False
+A choiva estaba vertendo.,A tormenta era aínda peor.,Corrín dentro.,effect,1,125,False
+Os que estaban dentro do palacio foron liberados.,O ascensor deixou de funcionar.,A campá de lume soou.,effect,1,126,False
+O pai odiaba o alcolismo do seu fillo.,O pai mercou ao seu fillo unha cervexa.,O pai expulsou ao seu fillo da casa.,effect,1,127,False
+O avogado subiu as escaleiras ao seu despacho.,O secretario foi a casa para un descanso.,O ascensor era malo.,cause,1,128,False
+O home foi acosado polos seus amigos.,Os seus amigos cortárono.,As súas amigas mercaron o xantar.,cause,0,129,False
+A rapaza deulle cartos.,Keshia devolveu o seu cambio.,Keshia esqueceu darlle un recibo á moza.,effect,0,130,False
+A muller foi colocada nunha cadeira de rodas.,Foi paralizado do accidente.,Foi hospitalizado nunha camilla.,cause,0,131,False
+Os cidadáns ían a bandeira nacional fóra das súas casas.,O país recordaba a súa independencia.,O país pasaba por dificultades económicas.,cause,0,132,False
+O equipo perdeu no torneo.,Entristeceron aos seus fans.,Eles emocionaron aos seus fans.,effect,0,133,False
+O meu amigo mostroume que tiña comida pegada nos dentes.,Sentinme avergoñado.,Sentinme orgulloso.,effect,0,134,False
+O rapaz fallou a súa proba de historia.,Estivo atento na clase.,Esqueceu ler.,cause,1,135,False
+O centro da cidade colapsou.,Un terremoto sacudiu a cidade.,A taxa de criminalidade na cidade aumentou.,cause,0,136,False
+A súa moza rompeu con el.,Pediulle que se reconciliase con el.,Presentouna aos seus pais.,effect,0,137,False
+Dous nenos baixaron a golpear o balón ao mesmo tempo.,A bola rodou.,As súas cabezas chocaron.,effect,1,138,False
+Rakuni escavou unha lata de lixo.,Había cartón dentro dunha lata de lixo.,A tapa estaba aberta nunha lata de lixo.,cause,1,139,False
+O rapaz debuxou un lapis.,Foi doado.,Era aburrido.,cause,1,140,False
+O caixeiro negouse a permitir á muller devolver o diñeiro para a roupa.,Perdeu o recibo.,A roupa non se axustaba a ela.,cause,0,141,False
+Os arañazos na miña pel eran enormes.,Arrefriaches rapidamente.,Deixaches unha cicatriz.,effect,1,142,False
+O home botou unha ollada estraña dos pasaxeiros dentro do tren.,Estaba brillando.,Estaba rodeando só.,cause,1,143,False
+O neno deixou migas no chan.,Sisimizi arrastrouse nas migas.,O neno apartou o pan.,effect,0,144,False
+A muller entregoulle o tecido á súa irmá.,A irmá da muller dobroulle o brazo.,A irmá da muller comezou a chorar.,cause,1,145,False
+O home levou a Nanaa.,Os beizos estaban secos.,Estaba preocupado polo mal cheiro.,cause,1,146,False
+A parella marchou cedo para o programa.,Esperaban unha reunión ao redor do corredor.,Recibiron indicacións para o salón.,cause,0,147,False
+A muller quedou na casa do traballo.,O seu xefe felicitouno.,Un compañeiro de traballo tomou unha oportunidade para el.,effect,1,148,False
+O home asinou a aplicación activista dos activistas.,Apoiou a súa causa.,Rebuoulles como un tolo.,cause,0,149,False
+O corazón do actor golpeaba antes do acto.,Tivo medo da plataforma.,Memorizou os seus versos.,cause,0,150,False
+Estaba perdido.,Conten o meu diñeiro.,Non abrín o mapa.,effect,1,151,False
+A froita madura deixouse ao sol.,Comeuse.,Lilisinyaa.,effect,1,152,False
+O coche rompeu.,Acendín un lume.,O motor estivo moi quente.,cause,1,153,False
+O home feriu as costas.,Ela foi ver a un psiquiatra.,Permaneceu na cama durante sete días.,effect,1,154,False
+Acendín un lume na lareira.,Estaba a menos de madeira.,Facía frío na casa.,cause,1,155,False
+A muller deixou de correr.,Tiña unha espiña dentro da súa costela.,Gañou nova forza.,cause,0,156,False
+Chamei na porta do meu veciño.,O meu veciño me deu a benvida dentro.,O meu veciño saíu da súa casa.,effect,0,157,False
+A muller mantivo a respiración con frustración.,O seu marido non entendeu a súa preocupación.,O seu marido bicoulle adeus.,cause,0,158,False
+O profesor eloxiou aos alumnos.,Os alumnos responderon correctamente á pregunta.,Os estudantes mostráronse reacios a responder á pregunta.,cause,0,159,False
+A muller é deficiente nos ovos.,Foi ao campo.,Foi ao supermercado.,effect,1,160,False
+Coñecín a un vello amigo.,Revelei o segredo para ela.,Abrazei.,effect,1,161,False
+A muller negouse a entrar no lago.,Pegou un peixe.,Parecía sucio.,cause,1,162,False
+O alumno chegou á aula cunha almofada mollada.,O seu paraugas rompeuse.,A súa bicicleta foi roubada.,cause,0,163,False
+A tartaruga na pantalla do ordenador moveuse.,O usuario fixo clic na tartaruga.,O usuario moveu a tartaruga.,cause,1,164,False
+O condutor tomou unha ruta de rotonda.,O accidente ocorreu na estrada.,Seguiu o camión diante del.,cause,0,165,False
+Colguei o liño empapado de auga na correa exterior.,Despois secouse.,Lasi entrou nos puntos.,effect,0,166,False
+A muller levaba lentes escuras.,A luz solar era brillante.,Quitou o sombreiro.,cause,0,167,False
+O home mirou o ceo nocturno.,Desexaba que fose verán.,Pensou que era bo.,cause,1,168,False
+Sentinme aburrido.,Fun para a cama cedo.,Quedei esperto toda a noite.,effect,0,169,False
+O home foi ao barbeiro.,Estaba crecendo o pelo.,O seu pelo era longo.,cause,1,170,False
+O rapaz burlou ao novo estudante na aula.,O rapaz acolleu ao novo estudante.,Ao rapaz non lle gustou o novo estudante.,effect,1,171,False
+Eu ansiaba un vaso de leite.,Eu comía galletas.,Eu adoitaba asar o pan.,cause,0,172,False
+Comezou a chover.,O condutor acendeu as lanternas.,O condutor cambiou o coche cara atrás.,effect,0,173,False
+A maioría dos aparcamentos estaban baleiros.,Aparquei no medio da rúa.,Aparqueino preto da porta.,effect,1,174,False
+O autor perdeu o prazo para enviar a factura.,O autor recibiu unha orde de contención.,Editou a factura.,cause,0,175,False
+O compañeiro chamoume.,Quería falar co supervisor.,Teño o meu número de identificación.,cause,0,176,False
+O vento soprou por unha xanela aberta.,O timbre soou.,As cortinas sacudiron.,effect,1,177,False
+A electricidade saíu na miña casa.,Saquei as luces.,Apaguei o fusible.,cause,1,178,False
+O halterofilia saltou aos pés.,Mostrou os seus músculos diante dun espello.,Levantou o ferro sobre a cabeza.,effect,1,179,False
+O alumno intentou facer as matemáticas na súa cabeza.,Parou a calculadora.,Estaba confuso.,effect,1,180,False
+O bebé quedou durmido.,O pai cambiou o cueiro do bebé.,O pai sacudiu lentamente ao neno.,cause,1,181,False
+A rapaza lanzou un globo de auga ao neno.,O rapaz conseguiu unha conmoción.,O rapaz casouse.,effect,1,182,False
+O fotógrafo esqueceu usar o flash na cámara.,A imaxe resultou ser néboa.,Todos na imaxe negáronse a sorrir.,effect,0,183,False
+Declinei a invitación de aniversario.,Estaba só.,Estaba fóra da cidade.,cause,1,184,False
+Practicei.,Sentinme forte.,Tiven medo.,effect,0,185,False
+Presionei unha esponxa fina.,Estaba mollado.,A auga saíu dela.,effect,1,186,False
+Os turistas subiron ao transbordador ata o resort.,A zona do resto foi creada cedo.,A zona do resto estaba na illa.,cause,1,187,False
+O rapaz ten un tojo.,Tiña medo das agullas.,Quería rebelarse.,effect,1,188,False
+Un vehículo descoñecido estacionado fóra da miña casa.,Estaba preocupado.,Chamei aos soldados.,effect,0,189,False
+O criminal entregouse por dentro.,As probas implicáronlle.,Non había probas contra el.,cause,0,190,False
+O home gordo decidiu perder peso.,Deixou de comer doces.,Abstívose da cafeína.,effect,0,191,False
+A rapaza pisou o xeo.,El esvarou.,Ela tremía.,effect,0,192,False
+A muller ten un círculo baixo os ollos.,Quedou esperto toda a noite.,Ela enviou ao seu fillo a durmir.,cause,0,193,False
+A lava fluíu do volcán.,O volcán estalou.,O volcán estaba tranquilo.,cause,0,194,False
+A muller púxose nos zapatos.,Coñecía a todos na cerimonia.,Quería saír da festa.,cause,1,195,False
+Paguei a garda da prisión.,Deume permiso para pasar á prisión.,Mantívome en prisión.,effect,0,196,False
+O executivo fallou.,Vendeu as accións da compañía.,Perdeu as súas posesións.,cause,1,197,False
+O home foi ao médico.,O médico estaba de vacacións.,O home estaba enfermo.,cause,1,198,False
+Deixei o meu dormitorio pola fiestra.,A casa prendeu lume.,A casa estaba baleira.,cause,0,199,False
+Os dedos do neno engurráronse.,Bañouse durante moito tempo.,Ela fregou o xabón nos dedos.,effect,0,200,True
+Cuspín leite.,O leite tiña un sabor amargo.,A miña boca estaba seca.,cause,0,201,False
+Botei de menos o autobús.,Estivera a traballar.,Cheguei tarde ao traballo.,effect,1,202,False
+O camión chocou co coche.,O camión aumentou a velocidade.,O coche rompeu.,effect,1,203,False
+O equipo enganou ao torneo para a súa vantaxe.,Gañaron.,Voluntarios.,effect,0,204,False
+Unha botella de refresco fai un son.,Voltei a botella.,Enrolei a tapa.,cause,1,205,False
+O rapaz estaba pechado da súa casa.,Arrastrou a través dunha xanela aberta.,Subiu no tellado.,effect,0,206,False
+O timbre soou.,O estraño bateu na porta.,A muller mirou polo buraco da porta.,effect,1,207,False
+O home sucedeu o traxe.,Atopounos lavando a roupa.,Colgouno no seu armario.,effect,0,208,False
+A rapaza espremiu un tubo de pasta de dentes.,A pasta de dentes fluía do tubo.,A rapaza cuspida a pasta de dentes.,effect,0,209,False
+As vítimas civís da guerra duplicáronse.,Os opositores á guerra marcharon.,Os opositores á guerra organizaron un desfile.,effect,0,210,False
+A rapaza sacoulle a cinta axiña do pelo.,Atou a cinta.,A cinta parecía infantil.,cause,1,211,False
+O home sufriu unha cirurxía xenética.,Envelleceu.,Parecía novo.,effect,1,212,False
+A galiña do bebé saíu do ovo.,O ovo foi eclosionado.,Rompín o ovo.,cause,0,213,False
+O prisioneiro tiña fame.,Morreu.,Fuxiu.,effect,0,214,False
+O home perdeu o equilibrio nas escaleiras.,Subiu as escaleiras.,Caeu polas escaleiras.,effect,1,215,False
+Golpeou a semente.,Fumaba refresco.,Abriu unha lata de refresco.,cause,0,216,False
+O vento frío soprou pola fiestra.,Calmei.,Tremín.,effect,1,217,False
+O alumno tivo a oportunidade de pagar a matrícula para ir á universidade.,Os seus compañeiros respectárono.,Obtivo bos resultados.,cause,1,218,False
+A rapaza burlou ao neno.,Vivía xunto a ela.,Creceu con sentimentos de amor por ela.,effect,1,219,False
+Un beduino con fame roubou comida.,Axitou a compaixón.,Non tiña cartos.,cause,1,220,False
+Chamei ao meu amigo para falar.,Quería privacidade.,Sentinme só.,cause,1,221,False
+O home agarroume a man.,Saquei a man.,Deixei unha palmada.,effect,0,222,False
+Eviteino.,Os fogos de artificio foron disparados ao aire.,O prato voou cara á miña cabeza.,effect,1,223,False
+A rapaza mastigou as uñas.,Estaba preocupado.,Quedou impresionado.,cause,0,224,False
+Voltei as páxinas no calendario.,Marcei a cita no calendario.,Foi o comezo do mes.,cause,1,225,False
+O Señor descubriu que a súa muller creceu cunha relación secundaria.,Despediu ao seu avogado.,Iniciou o proceso de divorcio.,effect,1,226,False
+A rapaza deixou caer o balón.,A bola bateu.,A pelota está brillando.,effect,0,227,False
+A rapaza cometeu un erro na proba.,Adiviñou a resposta.,Eliminou a súa resposta.,effect,1,228,False
+O xogador enfrontouse ao seu rival.,O seu rival conseguiu o balón.,O seu rival caeu ao chan.,effect,1,229,False
+Escollín tomates do campo.,Estaban maduros.,Regei.,cause,0,230,False
+O home quería amosar cariño.,Coñeceu á súa ex-moza para xantar.,Ela mercou chocolate para o seu mozo.,effect,1,231,False
+O mercurio dentro do termómetro subiu.,Caín o termómetro.,O tempo facía moito calor.,cause,1,232,False
+O tornado chegou cara á cidade.,O tellado do xulgado colapsou.,A estrada era perigosa.,effect,0,233,False
+Os alumnos conseguiron unha póla.,As súas marcas melloraron.,Entrou na proba.,effect,0,234,False
+Sentinme cómodo.,Axeonlles na rúa.,Cubrínme cunha manta.,effect,1,235,False
+Rodinei a pedra.,Era resbaladizo.,Foi brillante.,effect,1,236,False
+Engadín azucre ao café.,O café cheiraba amargo.,O café tiña un sabor doce.,effect,1,237,False
+O home pasou polos trámites.,Foi cortado con papel.,Arrouxou os papeis.,effect,0,238,False
+Golpei o cravo cun martelo.,A uña afundiuse no taboleiro.,A uña se oxidou.,effect,0,239,False
+O peixe tirou o cinto.,O pescador tirou o peixe á cintura.,O pescador lanzou o cinto cara á auga.,effect,0,240,False
+O rapaz avergoñouse de ir á escola.,Creceu inchado.,Sacou as súas muletas.,effect,0,241,False
+As miñas expresións faciais ilumináronse.,Recibín as boas novas.,Perdín a miña paciencia.,cause,0,242,False
+Limpei as mans cunha toalla.,A toalla estaba mollada.,As miñas mans estaban molladas.,cause,1,243,False
+O home perdeu o equilibrio na cadeira.,A cadeira sacudiu ao chan.,Botou a pintura na cadeira.,cause,0,244,False
+Os xogadores culparon directamente.,Perderon o seu xogo.,O seu adestrador aprazou a práctica.,cause,0,245,False
+Quería unha desculpa.,Lamentei a miña decisión.,Conseguín os meus obxectivos.,cause,0,246,False
+A muller estaba farta da súa cita.,Fíxolle preguntas sobre ela mesma.,Falou de forma consistente de si mesmo.,cause,1,247,False
+A rapaza iluminouse cun sorriso.,As súas meixelas puxéronse vermellas.,Os seus botóns amosáronse.,effect,1,248,False
+Os barcos inimigos estalaron.,Pasoume sobre min.,Ancorou no porto.,cause,0,249,False
+O home feriu a perna.,Mergullo no abismo.,Pasou sobre o vaso roto.,cause,1,250,False
+Os detectives sacaron o po da zona do crime cos dedos.,Descubriron a identidade do asasino.,Atoparon armas no lugar do crime.,effect,0,251,False
+Había un tráfico pesado na estrada.,Pasei un atallo.,Pedín un camiño de bicicleta.,effect,0,252,False
+A economía do país caeu.,Moita xente estaba enferma.,A maioría da xente estaba no paro.,effect,1,253,False
+Un mestre de ruta explotou un asubío para os nenos.,Querían ir de onde viña o tráfico.,Recoñeceunos desde o seu barrio.,cause,0,254,False
+Voltei os ollos cara ao meu amigo.,Díxome a verdade.,Fixo comentarios despectivos.,cause,1,255,False
+O coche conducía sen gas.,O condutor foi golpeado na estrada.,O condutor colleu aos loitadores.,effect,0,256,False
+A muller entrou na sala de entrega.,O bebé naceu.,A muller tiña dor pola mañá.,effect,0,257,False
+O sombreiro do home estaba fóra.,Quitou o sombreiro.,Había un vento fóra.,cause,1,258,False
+A moza asistiu á festa de aniversario dun compañeiro de estudante.,Aceptou a invitación.,Comprou un agasallo.,cause,0,259,False
+O rapaz sentiu unha calor na testa.,A súa nai mirouno con calor.,A súa nai levouno ao xardín.,effect,0,260,False
+O home pintouse a si mesmo.,Ela quería fotografar a súa cita.,Engrasou o pelo.,cause,0,261,False
+A electricidade foi desactivada na casa.,Busquei unha lanterna.,Collín unha pala.,effect,0,262,False
+A familia mudouse a unha gran casa.,O mozo graduouse na escola secundaria.,A nai deu a luz aos xemelgos.,cause,1,263,False
+O corredor usou unha cámara lenta.,Quería preservar o seu poder.,Viu a última liña.,cause,0,264,False
+O rapaz golpeou a máquina expendedora.,A máquina escupía o seu cambio.,A bolsa de correas quedou preso.,effect,1,265,False
+O can do meu amigo morreu.,Voltei os ollos cara a el.,Abrazei.,effect,1,266,False
+Caeu a tarxeta de crédito do comerciante.,Escribiu iou.,Pagou en efectivo.,effect,1,267,False
+O home maldicía.,Cortou as uñas.,Foi golpeado no dedo.,effect,1,268,False
+O home finxiu ser por mor do seu irmán.,O seu irmán recibiu un argumento polos seus pais.,O seu irmán foi ingresado na facultade de dereito.,cause,1,269,False
+A rapaza quería aprender sobre a enerxía solar.,Foi á biblioteca.,Mirou as estrelas.,effect,0,270,False
+O cartel pegado na parede.,Puxen un cartel sobre a porta.,Puxen unha cinta nas costelas.,cause,1,271,False
+O cliente aprobou os plans do arquitecto para o edificio.,O arquitecto deseñou o edificio.,O arquitecto revisou os plans.,effect,0,272,False
+O home deixou caer a culler.,A súa man tremía.,Lamía a culler.,cause,0,273,False
+O conselleiro delegado da compañía dimitiu.,O consello de administración disolveu a empresa.,O consello de administración buscou un substituto.,effect,1,274,False
+Cheguei tarde chegando á conferencia.,Sentei na fila traseira.,Achegueime ao podio.,effect,0,275,False
+O home foi liberado da prisión.,A súa familia pagou a súa débeda.,Atacou aos seus compañeiros prisioneiros.,cause,0,276,False
+A familia perdeu todas as súas posesións.,Venderon a súa casa.,A súa casa queimouse.,cause,1,277,False
+Fun golpeado nun bote de aluminio.,A botella estaba sendo reparada.,A solicitude foi golpeada.,effect,1,278,False
+A rapaza uniuse ao equipo de discusión.,Aprendeu a usar ordenadores.,Aprendeu habilidades de conversación.,effect,1,279,False
+Os meus sentimentos reforzáronse.,Escoitei música.,Fixen macetas.,cause,0,280,False
+A organización benéfica propúxose recadar fondos.,Alimentaron aos sen teito.,Tiñan unha poxa.,effect,1,281,False
+O reparto caeu por unha pendente abrupta.,Os pasaxeiros riron.,Berraron os pasaxeiros.,effect,1,282,False
+Estaba enfadado.,Comprobei a caixa de correo mentres saín da casa.,Chamei á porta mentres saía da casa.,effect,1,283,False
+O home quería ver o amencer.,Viaxou cara ao norte.,Espertou cedo.,effect,1,284,False
+Dobreu o papel.,Realizei o papel.,O papel estaba rasgado.,effect,1,285,False
+O país foi golpeado por un desastre natural.,Os líderes doutros países formaron alianzas.,Os líderes doutros países enviaron axuda de emerxencia.,effect,1,286,False
+A roupa do neno levábase.,Subiu sobre a piscina.,Caeu nunha piscina.,cause,1,287,False
+O alumno rematou rapidamente o libro.,Foi polo desexo de restaurar a biblioteca.,Prestouno ao seu amigo.,cause,0,288,False
+O criminal foi asasinado.,Foi enviado a prisión.,Foi condenado á morte.,cause,1,289,False
+A luz solar entrou na habitación.,Abrín a cortina.,Abrín a porta.,cause,0,290,False
+Tirei o pelo do escultor.,O seu pelo artificial caeu.,Afeitou a cabeza.,effect,0,291,False
+O editor referiuse á frase no proxecto de lei.,Atopou a factura convincente.,Atopou a frase controvertida.,cause,1,292,False
+A muller cancelou a súa conta de tarxeta de crédito.,Descubriu que a tarxeta non existía.,Descubriu a data de caducidade da tarxeta.,effect,0,293,True
+O home e a muller namoráronse.,Asistiron á universidade.,Casáronse.,effect,1,294,False
+A música era demasiado débil para escoitar.,Engadín o son.,Compuxen a miña propia canción.,effect,0,295,False
+O pelo do neno estaba parado.,A rapaza agarrouse no pelo.,A rapaza sacou o pelo.,effect,0,296,True
+O verme foi espremido.,Pulverizábame con repelente de insectos.,Pisei o erro.,effect,1,297,False
+Abrín os ollos.,Espertei.,Eu descansei.,cause,0,298,False
+A música do meu veciño chorou.,Pedinlle que baixe a voz.,Pedinlle que apague o CD.,effect,0,299,False
+A familia do home viviu unha vida de pobreza.,Riu dos seus ingresos.,Gañou menos do salario mínimo.,cause,1,300,False
+O estudante graduouse na universidade.,Buscou un traballo.,Fixo o que amaba.,effect,0,301,False
+O artista mesturado amarelo en azul.,A cor estendeuse por todo o lugar.,A cor volveuse verde.,effect,1,302,False
+Cambiei o tema da conversa.,Quedei sen cousas das que falar.,As conversas fixéronse difíciles.,effect,1,303,True
+O meu irmán foi liberado do hospital.,Acolleuno de volta á casa.,Rexeiteino.,effect,0,304,False
+A cortina da plataforma subiu.,Comezou a escena inicial do drama.,Os actores emocionaron o escenario.,effect,0,305,False
+Teka foi enviado á autoridade dos secuestradores.,O secuestrador ameazou con ferir ao secuestrador.,A secuestradora deixouna secuestrar.,cause,0,306,False
+Un berro sonou desde a plataforma.,O músico pateoulle a perna.,O músico interpretou unha serie de tambores.,cause,1,307,False
+Os pais precipitáronse ao dormitorio do seu fillo.,O bebé espertou e gritou do pesadelo.,O bebé tiña medo de saír da cama.,cause,0,308,False
+A muller comunicouse en lingua de signos.,Naceu prematuramente.,Naceu xordo.,cause,1,309,False
+A seca produciuse na rexión.,A auga contaminouse.,Perdeuse os rendementos.,effect,1,310,False
+O gato perseguía o paxaro.,O avión voou.,O avión colleu adestramento.,effect,0,311,False
+A rapaza cambiou as escolas.,A escola estaba pechada para o verán.,Trasladouse a unha nova cidade.,cause,1,312,False
+O propietario da fábrica negouse a aumentar os salarios dos empregados.,O propietario designou un novo xestor.,Os empregados foron de folga.,effect,1,313,False
+O líder provocou aos poderosos no medio do seu país.,O poderoso persuadiuno.,O poderoso matouno.,effect,1,314,False
+Camiñei só na praia.,A area conxelouse aos meus pés.,As ondas estreláronse na costa.,effect,0,315,False
+Espertei no medio da noite sentíndome frío.,Eu levaba pantalóns lixeiros.,Bebín un vaso de auga.,effect,0,316,False
+A nai calou ao seu fillo.,O seu bebé sorriu.,O seu fillo queixouse.,cause,1,317,False
+TOBO estalou nos meus jeans.,Desconcertei os meus jeans.,Quedei atrapado no camiño dos peóns.,cause,1,318,False
+O rapaz levaba un gango.,Tivo un burato nos dentes.,Os seus dentes fixéronse rectos.,effect,1,319,False
+Onte traballei moito no ximnasio.,Hoxe espertei coa dor muscular.,Hoxe espertei cunha dor de garganta.,effect,0,320,False
+A rapaza murmurou e estendeuse a todos na mesa do xantar.,Os outros estudantes sentáronse na mesa do xantar.,Os outros estudantes da mesa da cea sentíronse obrigados a marchar.,effect,1,321,False
+O bebé baixou ao trampolín.,Volveu cara ao ceo.,Decidiu intentar rodar no aire.,effect,0,322,False
+Enviei a carta na caixa de correo.,A oficina de correos recibiu unha carta.,A oficina de correos acelerou a carta.,effect,0,323,False
+O xogador estaba confiado.,Depositou todo o seu diñeiro.,Foi a casa en bancarrota.,effect,0,324,False
+Os incendios forestais estendéronse.,O vento era forte.,Tomáronse os incendiarios.,cause,0,325,False
+O neno rabuñou a pel nos seus pés.,A súa nai levouno ao seu cuarto.,A súa nai puxo un vendaje sobre a ferida.,effect,1,326,False
+O home sobreviviu á praga.,Asinou a súa vontade (consentimento).,Recibiu unha transferencia de ligazóns.,cause,1,327,False
+Botei unha botella de café quente.,Morden a miña lingua.,Queimei a lingua.,effect,1,328,False
+O editor despediu ao autor.,O autor evitou o sesgo nas súas historias.,O autor perdeu o prazo.,cause,1,329,False
+Sentinme esgotado.,Durmín todo o día.,Lin todo o día.,cause,1,330,False
+O médico identificou ao paciente.,Notou os síntomas do paciente.,Prescribiu pílulas para o paciente.,cause,0,331,False
+Rasquei a pel.,Estaba suando.,Estaba ardendo.,cause,1,332,False
+O home sufriu unha cirurxía de emerxencia.,Perdeu o temperamento.,Sufriu un ataque cardíaco.,cause,1,333,False
+Os músculos das mans dun home estaban adormecidos.,Dobre os brazos.,Empuxou as mans.,cause,0,334,False
+O home levantou as cellas.,Preguntábase.,Sentíase decepcionado.,cause,0,335,False
+Perdoei o erro da miña parella.,Eu cría que as súas intencións eran boas.,Eu cría que se deu conta de mellor.,cause,0,336,False
+O home deixou de fumar.,Comezou a practicar máis.,Comezou a camiñar cedo.,effect,0,337,False
+A muller golpeou ao seu atacante no nariz.,O corpo do seu atacante morreu.,O atacante comezou a sangrar.,effect,1,338,False
+A frecha perdeu o obxectivo.,O home dirixiu o mal.,O home estaba perdendo o xogo.,effect,0,339,False
+O propietario afirmou que o destructor ía á súa casa.,Descubriu un rato baixo a casa.,Puxo unha caixa de formigas no seu cuarto.,cause,0,340,False
+Eu suxerín ao meu convidado que saímos a cear.,Estaba demasiado canso para preparar calquera cousa.,O meu hóspede permaneceu moito tempo.,cause,0,341,False
+A rapaza colleu ao seu irmán lendo o seu diario.,Comezou a ocultar o seu diario.,Conseguiu un novo diario.,effect,0,342,False
+A muller quedou sen cartos por aluguer.,Traballou horas extras.,Deixou o seu traballo.,effect,0,343,False
+A man do bebé foi de súpeto restaurada.,Tocou a cociña quente.,Tocou a cabeza do can.,cause,0,344,False
+A compañía quixo medir a satisfacción do cliente.,Ofreceron descontos a novos clientes.,Fixeron investigacións sobre clientes.,effect,1,345,False
+O chan de madeira rachou.,O rapaz botou as almofadas no sofá.,O rapaz arrastrou unha cadeira ao chan.,cause,1,346,False
+Cubrín a cara.,O meu inimigo culpoume.,O meu inimigo apretou os puños.,cause,1,347,False
+A famosa estatua queimada.,Foi impactado pola luz.,A xente chegou a renderlle homenaxe.,cause,0,348,False
+Eliminei a froita sobre a mesa.,A froita produciu sementes.,As moscas rodeaban a froita.,effect,1,349,False
+A xogadora feminina dividiu as fibras.,Sinalou os dedos dos pés.,Sacudiu o nocello.,cause,1,350,False
+A correa do zapato do bebé foi desatada.,Aprendeu a pechalo.,Foi correndo no parque infantil.,cause,1,351,False
+Quedei fascinado polo libro.,Voltei o libro.,Perdín moito tempo.,effect,1,352,False
+O home tiña as mesmas crenzas que os seus pais.,Os seus pais a persuadiron.,Os seus pais rexeitárono.,effect,0,353,False
+O coche comezou a parar lentamente.,Quedou sen gas.,O condutor quedou durmido.,cause,0,354,False
+O home comeu xeado ao sol.,O xeado perdeu o sabor.,O xeado caeu do cono.,effect,1,355,False
+Colguei o debuxo no armario.,A alfombra parecía sucia.,As paredes parecían baleiras.,cause,1,356,False
+Deixei o meu traballo cedo.,Tiven dor de cabeza.,O meu xefe dirixiu a reunión.,cause,0,357,False
+O cachorro suciou a alfombra.,El mesmo reprochou ao cadelo.,El mesmo deu o agasallo ao cadelo.,effect,0,358,False
+Pedín desculpas ao meu amigo.,O meu amigo perdooume.,O meu amigo estaba enfadado.,effect,0,359,False
+O home era diferente da multitude.,Levaba unha bolsa de ombreiro.,Levaba unha camiseta de neón.,effect,1,360,False
+A testemuña xurou ao xuramento.,Completou o seu testemuño.,Foi falsamente acusado.,effect,1,361,False
+A muller tinguiu o pelo.,Quería parecer novo.,Quería mesturalos.,cause,0,362,False
+Os inmigrantes foron arrestados por vivir ilegalmente no país.,Conseguiron emprego.,Foron eliminados do país.,effect,1,363,False
+O orador público fixo unha broma.,O público chorou.,O público parou.,effect,0,364,False
+Mirei o sol.,O sol bateu sobre min.,O sol suavizou a miña pel.,effect,0,365,False
+Sentinme canso.,Respirei profundamente polo nariz.,Fun á miña casa.,effect,1,366,False
+A carne era difícil de cortar.,Faltaba o coitelo.,A carne era crúa.,cause,0,367,False
+A muller declarou a bancarrota.,Recibiu un pago en metálico.,Recibiu unha enorme débeda.,cause,1,368,False
+As luces do apartamento do meu amigo estaban acendidas.,Preguntábame se estaba fóra.,Decidín visitala.,effect,1,369,False
+Puxen unha flor baixo o nariz.,Os pétalos proporcionaban flores.,Eu cheiraba o cheiro a ou.,effect,1,370,False
+A muller foi arrebatada por pensamentos positivos.,Levouse ben co seu amigo da súa infancia.,Ela gritou aos seus fillos.,effect,0,371,False
+O alumno aprazou o papel.,Enviou o papel cedo.,Enviou o papel inacabado.,effect,1,372,False
+O meu coche rompeu.,Fun ás tendas.,Chamei a un mecánico.,effect,1,373,False
+Rexeitei o texto.,Non era descoñecido.,Era ilexible.,cause,1,374,False
+O paxaro flutou as ás.,Puxo ovos.,Ascendeu ao alto.,effect,1,375,False
+Aparqueino nunha pequena calzada ata o garaxe.,O garaxe estaba aberto.,O garaxe estaba cheo.,cause,1,376,False
+O delincuente pretendía disparar á vítima.,O criminal deixou a arma.,O criminal levantou a man.,effect,1,377,False
+Estaba desexando a fin de semana.,Planeaba asistir ao funeral do meu tío.,Planeaba asistir á voda do meu amigo.,cause,1,378,False
+Perdín moito tempo.,Tiven moitas boas ideas.,Eu era náuseas.,cause,0,379,False
+O texto imprimíase en documentos ilexibles.,A impresora tiña unha pequena tinta.,A impresora non levaba papel.,cause,0,380,False
+O himno nacional xogouse nun estadio.,Os fans volvéronse á bandeira.,Os afeccionados correron cara ao estadio.,effect,0,381,False
+A salsa carecía de sabor.,Manexo.,Engadín sal.,effect,1,382,False
+Poño as toallas á luz.,A toalla absorbía o líquido.,A luz conservou a viscosidade.,effect,0,383,False
+A muller interrompeu no medio de ler o seu libro.,Puxo unha marca no papel.,Leu de novo o libro.,effect,0,384,False
+O avión estrelouse.,O home apertou o cinto de seguridade.,O home mirou pola fiestra.,effect,0,385,False
+O rapaz quedou conmocionado.,A rapaza ignorouno.,A rapaza tocoulle co dedo.,effect,1,386,False
+Os médicos déronlle ao paciente unha perna artificial.,Lanzaron a perna.,Xestionaron os seus órganos vitais.,cause,0,387,False
+O rapaz apretou o pulso da nena.,Fixo un esforzo para mover o ombreiro.,El sacou a man dela.,effect,1,388,False
+Pedinlle consello ao meu amigo.,Aprecio o seu comentario.,Decateime de que tiña razón.,cause,0,389,False
+O rapaz pisouse no barro.,O barro rodouse nos seus zapatos.,O barro golpeoulle na cara.,effect,0,390,False
+A cidade ten varios polgadas de neve.,As escolas estaban pechadas.,A xente escondía baixo terra.,effect,0,391,False
+A quenda do empregado rematou.,Foi a casa un día.,Ameazou con deixar o seu traballo.,effect,0,392,False
+Unha árbore destruíu a casa.,Unha árbore caeu no tellado.,A árbore lanzou unha sombra no xardín.,cause,0,393,False
+A madeira rachada no medio.,Engadín madeira ao lume.,Baixei a machada para dirixir a madeira.,effect,1,394,False
+A familia felicitou á parella.,A parella anunciou a súa separación.,A parella anunciou que tiñan un bebé.,cause,1,395,False
+A rapaza entregoulle ao neno unha tarxeta.,Amábaa.,Bicouna.,cause,0,396,False
+Sacudei a cabeza de acordo coa declaración do meu amigo.,Estaba confuso.,Estou de acordo con el.,effect,1,397,False
+Os amigos balancearon a moeda.,Querían atopar o adecuado.,Querían tomar as decisións correctas.,cause,1,398,False
+O reloxo apagouse na cociña.,O home descargou as verduras na neveira.,O home entregou a pizza á estufa.,effect,1,399,False
+A muller puxo os obxectivos que quería.,Non o chegou.,Traballou duro.,effect,1,400,False
+Un home rico morreu cun veterano.,O seu fillo tiña problemas legais.,O seu fillo herdou a súa riqueza.,effect,1,401,False
+A muller pisou o lume.,O lume extinguiuse.,Fume abandonado do lume.,effect,0,402,False
+O coche da muller estaba na sección de mantemento.,O carné de conducir caducara.,Tivo un accidente de coche.,cause,1,403,False
+Quedei durmido e cruzei o meu reloxo.,Preparei o almorzo.,Botei de menos o almorzo.,effect,1,404,False
+O xornalista saíu do coche de luxo.,A cámara parpadeou no seu lado.,A súa familia asistiu a unha conferencia de prensa.,effect,0,405,False
+A muller sentouse durante moito tempo no baño.,A auga do baño estaba un pouco quente.,A auga do baño saíu do balón.,effect,0,406,False
+Un estudante universitario quería ver máis estudantes no campus.,Apoiou a Irmandade.,Fixo un curso de enxeñaría.,effect,0,407,False
+Levantei a almofada do coxín.,Buscaba moedas.,Estaba reordenando a sala de estar.,cause,0,408,False
+Nyiga voou cara ao rapaz.,O rapaz fuxiu.,O rapaz colleu a flor.,effect,0,409,False
+A muller foi condenada por un delito menor.,Foi condenado a realizar servizos sociais.,Foi colocado nunha morte.,effect,0,410,False
+Axitou o azucre no té quente.,O té arrefriouse.,Azucre derretido.,effect,1,411,False
+O veterano da guerra camiñou cun limpo.,Foi levado en batalla.,Foi ferido na batalla.,effect,1,412,False
+O criminal fuxiu dos soldados.,O soldado foi ás vítimas.,O soldado perseguía ao criminal.,effect,1,413,False
+O ordenador non se activaría.,Caín.,Engadín un cargo.,effect,0,414,False
+O espazo do garda -roupa rematou para a muller.,Ten moita roupa.,Enrolou a roupa.,effect,0,415,False
+O home foi devastado.,A súa muller deu a luz.,A súa muller abandonouno.,cause,1,416,False
+O home obtivo un título.,Conseguiu as calidades do traballo que quería.,Eliminouse unha oferta para o seu traballo.,effect,0,417,False
+A voz do home chegou a todas as partes da audiencia.,Saudou á audiencia.,Falou a través dun micrófono.,cause,1,418,False
+Botei a moeda á auga.,A moeda afundiuse cara ao fondo.,A moeda parpadeou no medio.,effect,0,419,False
+O xogador lanzou o balón cara ao eixe.,O balón entrou na gabia.,O balón volveu ao xogador.,effect,0,420,False
+Inhalei o po no teito.,Fun á cociña.,Eu estornudei.,effect,1,421,False
+O contador da tenda chamounos por seguridade.,O cliente gastou cartos falsificados.,O cliente deixou iluminar a súa lámpada dianteira.,cause,0,422,False
+Botei o lixo.,O lixo trouxo un mal cheiro á cociña.,Por desgraza renunciou á miña lista de compras.,cause,0,423,False
+A familia foi ao zoo.,Os nenos amaban os animais.,Os nenos perseguiron aos animais.,effect,0,424,False
+O home inhala en voz alta.,Os riles negáronse.,Os pulmóns foron bloqueados.,cause,1,425,False
+Tiven un billete adicional para o concerto.,Pedinlle ao meu amigo que me apuntase á escena.,Pregunteille á miña amiga se podía ir.,effect,1,426,False
+O aire acondicionado resultou danado dentro da casa.,Saquei a manta.,Abrín a fiestra.,effect,1,427,False
+As costas do neno ferían.,A bolsa de ombreiro estaba aberta.,A bolsa de ombreiro era pesada.,cause,1,428,False
+Merquei a miña nai un agasallo.,Decorei o bolo para ela.,Foi o seu aniversario.,cause,1,429,False
+As plantas con flores no xardín foron destruídas.,A abella picou ao agricultor.,Chindi escavou as lámpadas das plantas.,effect,1,430,False
+Acendín un partido.,O lume esvaeceuse.,Brimstone xerou lume.,effect,1,431,False
+Os partidos rivais asinaron un tratado.,Non querían discutir no xulgado.,Querían reavivar a súa relación.,cause,0,432,False
+Os nenos foron enviados a un orfanato.,Os seus pais morreron.,Os seus pais destruíronos.,cause,0,433,False
+O meteoro caeu no mar.,Golpeou un tsunami.,Comezou a sarabia.,effect,0,434,False
+O vagabundo enfrontouse á serpe venenosa.,Estaba deshidratada.,Tiña medo.,effect,1,435,False
+A estufa prendeu lume.,Acendín a cociña.,Botei a tixola á estufa.,cause,0,436,False
+Presionou a pel de limón.,Limón fixo unha néboa.,Extraíuse limón.,effect,1,437,False
+O país descubriu novas terras.,O país demoliu a terra.,O país gobernou a terra.,effect,1,438,False
+O vaso caeu sobre a mesa.,Rompeu e estendeuse por todo o chan.,Colocouse nunha pila de roupa para ser lavada.,effect,0,439,False
+A mesa sacudiu.,O chan non era exactamente o mesmo.,O chan era resbaladizo.,cause,0,440,False
+Un pai colleu ao seu fillo durmido.,O seu fillo admitiu a verdade.,O Pai confiaba no seu fillo.,effect,0,441,False
+A cabeza do home doeu.,Ela tragou unha pílula no peito.,Tragou aspirina.,effect,1,442,False
+O tren diminuíu.,Estaba achegándose á estación.,Ía contra o seu horario.,cause,0,443,False
+O home pasou por tratamento.,O seu familiar ten unha enfermidade mental.,Foi diagnosticada cun trastorno mental.,effect,1,444,False
+A muller agarroulle a gorxa.,Tragou a súa comida.,Foi alimentado con comida.,cause,1,445,False
+A muller tiña dor de garganta.,A súa voz era pesada.,Falou enfaticamente.,effect,0,446,False
+O can mirou os lados da carne sobre a mesa.,El espetou.,Deitouse.,effect,0,447,False
+O negocio da muller tivo éxito.,Despediu aos seus empregados.,Era rico.,effect,1,448,False
+Os estudantes abandonaron a aula.,A campá soou.,O profesor deu os deberes.,cause,0,449,False
+A muller afirmou ter visto un demo.,A súa comprensión mostrou sospeita.,A súa comprensión coincidiu co seu.,effect,0,450,False
+O home perdeu a audición.,Case perdido no océano.,Está a piques de morrer nunha explosión.,cause,1,451,False
+O neno cortou o cordón do globo.,O globo saíu do vento.,O globo entrou no aire.,effect,1,452,False
+O home perdeu a súa capacidade para falar.,Tiña un ictus.,Respirou profundamente.,cause,0,453,False
+Unha muller tropezou cun camiño de peón.,Houbo un crack no formigón.,Escoitou o seu nome chamado.,cause,0,454,False
+O home lanzouse á piscina.,O salvador lanzouse detrás del.,O home afogou ao salvador.,effect,1,455,False
+Tomei un antiséptico.,A miña enfermidade infecciosa desapareceu.,A miña enfermidade infecciosa estendeuse.,effect,0,456,False
+O semáforo parpadeou amarelo.,O condutor aplicou os freos.,O condutor soprou o corno.,effect,0,457,False
+O recipiente de plástico derreteuse.,Empapei a embarcación en auga quente.,Poño o recipiente na estufa quente.,cause,1,458,False
+O coche rompeu.,O condutor pisou a punta do teléfono.,O condutor camiñaba mentres a luz vermella estaba acendida.,cause,0,459,False
+O rapaz leu toda a noite.,Saltou a proba.,Pasou a proba.,effect,1,460,False
+O pequeno aferrouse ao bordo da piscina.,Tiña medo de nadar.,O porteiro da piscina creceu alí.,effect,0,461,False
+Puxen a man no peito.,Sentín o meu latido do corazón.,A frecuencia cardíaca aumentou.,effect,0,462,False
+Un edificio preto da miña oficina estaba en construción.,A miña oficina estaba abarrotada.,A miña oficina era ruidosa.,effect,1,463,False
+As familias querían coñecer aos seus novos veciños.,A familia convidou aos seus veciños a cear.,As familias agitaban aos seus veciños do seu xardín.,effect,0,464,False
+A auga fluía fóra da piscina.,O nadador mergullouse na piscina.,O nadador flotou na piscina.,cause,0,465,False
+Mastiquei un anaco de sandía.,Por desgraza traguei o campo.,Por desgraza cortei o dente.,effect,0,466,False
+O rapaz tropezou.,O seu abrigo estaba descansado.,Os seus cordóns foron desatados.,cause,1,467,False
+A muller levaba un pendente.,A el molestoulle o ruído.,Pierou as orellas.,cause,0,468,False
+Reproducín a miña botella de auga.,Bebín toda a auga nela.,Puxérono na neveira.,cause,0,469,False
+O programa de televisión foi evaluado polo seu idioma.,Tiña unha linguaxe ridícula.,Tiña unha estrutura dura.,cause,0,470,False
+O barco estrelouse.,A tripulación afogouse.,A tripulación enfrontouse por piratas.,effect,0,471,False
+O rapaz quedou perplexo polo enigma.,Resolveu o enigma.,Pediu unha pista.,effect,1,472,False
+O teléfono soou.,O home perdeu o teléfono.,O home recibiu a chamada.,effect,1,473,False
+A muller estaba mirando para min.,Abrazei.,Sentinme ansioso.,effect,1,474,False
+O grupo seguiu sendo un museo.,Fixeron fotos da exposición.,Viron todos os programas.,cause,1,475,False
+O home comezou a discutir coa mie.,O meu amigo presentoume a un home.,O meu amigo levantouse por min.,effect,1,476,False
+A pelota da miña bicicleta durmía.,Poño o vento no neumático.,Cambiei de marcha na bicicleta.,effect,0,477,False
+A rapaza parecía estar paralizada.,O seu pai leuna unha historia.,O seu pai tocoulle a testa.,effect,1,478,False
+A pluma rematou a tinta.,Eu usei un lapis.,Asinei o meu nome.,effect,0,479,False
+O home foi negado un préstamo.,Estaba en débeda.,Comezou un negocio.,cause,0,480,False
+A rapaza quedou na casa da escola.,Tiña varicela.,Gustoulle ler a aritmética.,cause,0,481,False
+A bolsa de lixo estaba chea.,Enviei á folla.,Boteino baixo a cunca do baño.,effect,0,482,False
+Limpei a alfombra.,Os meus compañeiros da habitación botaron unha copa.,O meu can derramouse o pelo.,cause,1,483,False
+O home estaba enfadado.,Apagou o ordenador.,Lanzou a cadeira á habitación.,effect,1,484,False
+A rapaza lanzou unha folla ao campo de bombeiros.,A folla queimouse.,O lume extinguiuse.,effect,0,485,False
+O home saíu da bañeira.,A auga quente desapareceu.,Non viu as toallas.,cause,0,486,False
+Os pais querían que os seus fillos fosen á universidade.,Deixaron cartos para obter máis ensinanzas.,Animaron aos seus fillos a xogar fóra.,effect,0,487,False
+O home desatou os seus cordóns.,Os zapatos estaban soltos.,Os zapatos estaban sucios.,effect,0,488,False
+O home comeu medio pote de carne.,O resto que puxo na neveira.,Mantivo a receita.,effect,0,489,False
+O meu nocello estaba inchado.,Puxen xeo.,Eu manguei loción nela.,effect,0,490,False
+A porta da miña oficina estaba moi aberta.,Falei cos meus compañeiros na mesa.,Escoitei unha conversa no corredor.,effect,1,491,False
+Tiven que esperar na cola.,Sentei.,Lin o xornal.,effect,1,492,False
+O home golpeouna cunha mosca.,A mosca voou.,A mosca permaneceu estancada.,effect,0,493,False
+O home escribiu unha vontade.,Morría.,Morrera coa súa muller.,cause,0,494,False
+O atleta sentiu como se o seu rival estivese máis preto del.,Saíu da competición.,Acelerou.,effect,1,495,False
+Pensei con atención o problema.,Pedín consello.,Atopei unha solución.,effect,1,496,False
+O viaxeiro pasou por unha ponte suspendida.,Tiña medo.,Estaba feliz.,effect,0,497,False
+O home confiou na vitoria do grupo.,Viu ao seu amigo vendo o xogo.,Fai unha aposta co seu amigo.,effect,1,498,False
+O rapaz non podía durmir.,Puxo o seu espertador.,Contou as ovellas.,effect,1,499,False

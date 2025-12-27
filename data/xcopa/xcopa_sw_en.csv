@@ -1,0 +1,501 @@
+premise,choice1,choice2,question,label,idx,changed
+The device was wrapped in a blind bag.,It was easy to break down.,It was small.,cause,0,0,False
+I left my bags empty.,I got another piece of ticket again.,I saw a weapon.,effect,0,1,False
+Ants invaded the house.,Ants left the house.,Ants ate through the wood inside the house.,effect,1,2,False
+Travelers have reached the border.,The patrol officer inspected their passports.,The patrol officer accused them of smuggling.,effect,0,3,False
+The office was closed.,It was a day of rest.,It was summer.,cause,0,4,False
+The girl lost strength.,He played the draft.,He jumped the rope.,cause,1,5,False
+The woman has lost her place in the line.,More people lined up.,He got out of line.,cause,1,6,False
+Do not pinch his nose.,The baby spat in his mouth.,The baby soiled his diaper.,cause,1,7,False
+The band played their favorite song.,The audience applauded following the music.,The audience listened calmly and silently.,effect,0,8,False
+The girl wanted to thank her math teacher.,The girl remained in custody after school.,The girl brought apples to her teacher.,effect,1,9,False
+The little camper felt nervous.,Their camp counselor told them about ghost stories.,They set fire to the campfire.,cause,0,10,False
+The man hit his head.,He got lost in thought.,He lost consciousness.,effect,1,11,False
+The check I wrote has been dropped.,My bank account was empty.,I have received a salary increase.,cause,0,12,False
+The man's email inbox is full of spam.,He deleted the spam.,He sent a public email.,effect,0,13,False
+The sailor was isolated.,She had been diagnosed with the disease.,He has recovered from the disease.,cause,0,14,False
+The girl memorized the code.,He memorized it.,He forgot to write it down.,effect,0,15,False
+I poured water into a glass.,The water quenched my thirst.,The water was full.,effect,1,16,False
+The man remained silent as his friend finished speaking.,He wanted to give his friend help.,He was thinking about his friend's words.,cause,1,17,False
+The accident was my fault.,I felt guilty.,I filed a lawsuit.,effect,0,18,False
+The necklace was far apart.,A necklace was wrapped around the tire.,There was a broken link in the necklace.,cause,1,19,False
+The couple decided to come to an agreement.,They were tired of arguing.,They ran to discuss the problem.,cause,0,20,False
+The woman has decided to run a public office.,He hired a campaign manager.,He testified in court.,effect,0,21,False
+The man anticipated the cold weather on his journey.,She arranged warm clothes inside her box.,He traveled with a large box.,effect,0,22,False
+The student knew the answer to the question.,He raised his hand.,He didn't care.,effect,0,23,False
+The man's eyes filled with tears.,Dust settled in his eyes.,He wore sunglasses over his eyes.,cause,0,24,False
+The player won ten games in a row.,His opponent accused him of fraud.,His opponent felt sorry for him.,effect,0,25,False
+The teacher broke the student's test.,He arrested a student for fraud.,The student's response was incorrect.,cause,0,26,False
+I hesitated to stop talking.,I lost my voice.,I was out of breath.,cause,1,27,False
+Frozen food melted.,I put it on the microwave.,I covered it with plastic sheeting.,cause,0,28,False
+The employee forged the bite.,He had stomach problems.,He wanted a day off.,cause,1,29,False
+The girl went down into the pool.,He ran over the edge of the pool.,He jumped out from a diving goal.,cause,1,30,False
+Movie tickets are all sold out.,It was the launch day of the film.,The film gets negative feedback.,cause,0,31,False
+The man has lost weight.,People exclude him.,People are praising him.,effect,1,32,False
+The girl's hands were blisters.,He typed the letter.,He rode the rope.,cause,1,33,False
+The acrobat tricked while riding a single-ring bike.,The audience cheered him on in surprise.,The acrobat hung from the swing.,effect,0,34,False
+I have lost my patience.,My friend made me wait for him.,My friend arrived on time.,cause,0,35,False
+The warring nations wanted peace.,They developed nuclear weapons.,They negotiated a contract.,effect,1,36,False
+The man was taking sleeping pills.,He has become drowsy.,He got a fever.,effect,0,37,False
+The woman was hit by a chair.,The leg of the chair opened.,He hurt his knee.,effect,1,38,False
+The boy blew the balloon.,The blind man was healed.,The blind man jumped up.,effect,0,39,False
+Travelers inspected the inside of their hotel room.,They unpacked their luggage.,They went to the airport.,effect,0,40,False
+I bit the flu.,Fully injured.,The juice was spilled.,effect,1,41,False
+My hand has been sticking out.,I ate a donut.,I got a delicious meal.,cause,0,42,False
+I pushed the door open.,The door opened.,The door slammed shut.,effect,0,43,False
+Activists boycotted the product.,Products were rated for quality assurance.,Products were made through child labor.,cause,1,44,False
+I drilled a hole in the wall.,The rat crawled out of the hole.,Dust blew from the hole.,effect,1,45,False
+The woman was jealous of her sister.,Her sister was happy.,Her sister was divorced.,cause,0,46,False
+I poured wine over my shirt.,I wore an apron.,I changed my shirt.,effect,1,47,False
+The cashier opened the cash books.,The customer searched for his wallet.,The client handed him the money.,cause,1,48,False
+The musician performing in the street attracted the crowd.,People gave him a coin.,He drove the crowd away.,effect,0,49,False
+The little boy cried for his guardian.,He longed to see his parents.,It was time to eat.,effect,0,50,True
+The pilot's radar detected a storm.,The pilot withdrew from the storm.,The pilot flew toward the storm.,effect,0,51,False
+The tree dropped its leaves.,The leaves changed color.,The leaves gathered at the bottom.,effect,1,52,False
+The boy was in a state of shock.,He decided to play cards with his sister.,He decided to play a joke game with his sister.,effect,1,53,False
+The child regretted that he wanted to go to the toilet.,His father gave him a drink and a drink.,Dad parked the car at a gas station.,effect,1,54,False
+The baby sprayed fish food into the tank.,The fish jumped out of the tank.,Fish swam towards food.,effect,1,55,False
+The woman's political outlook changed.,He changed his party relations.,He became involved in a strike.,effect,0,56,False
+The toilet sink was clogged.,I turned on the tap.,I inserted a cleaning device into it.,effect,1,57,False
+The passengers got out of the train.,The train arrived at the station.,The train blew the siren.,cause,0,58,False
+The men pushed down the damp wing wing.,He put a stamp on the envelope.,He closed the envelope.,effect,1,59,False
+Friends lost contact.,They enjoyed being close to each other.,They moved to different cities.,cause,1,60,False
+The accountant failed to manage the company's finances.,He was removed from his position.,She went on maternity leave.,effect,0,61,False
+I looked at the clock.,I heard the sound of the clock.,I wanted to know what time it was.,effect,1,62,False
+My hand ached.,I wrote the essay by hand.,My wife and I held hands.,effect,0,63,False
+Komeo tightened.,I changed the scoop.,I rolled a screwdriver.,effect,1,64,False
+The couple signed a rental agreement for the apartment.,The couple moved into an apartment.,The city council demolished the house.,effect,0,65,False
+The woman sat outside on the council.,He wanted to watch the sun go down.,He thought he saw thunder.,cause,0,66,False
+The man was wearing a life jacket.,He could not swim.,The water was shallow.,cause,0,67,False
+The woman made a mistake inside the text processor.,He deleted the document.,He pressed the back button.,effect,1,68,False
+The girl bragged to her friends.,He got a bad grade.,He won the contest.,cause,1,69,False
+The garden was muddy.,It rained at night.,It was full of weeds.,effect,0,70,False
+The woman was fast asleep.,He stayed at the hotel at night.,He forgot to adjust his alarm clock.,cause,1,71,False
+The man is wearing a sunscreen.,He sat in the shade.,He went to the beach.,cause,1,72,False
+Researchers confirmed the theory.,Researchers dismissed the theory.,People accepted the theory.,effect,1,73,False
+Fans at the match roared.,The match went into extra time.,The referee made the wrong decision.,cause,1,74,False
+I inserted the secret numbers into the lock.,I locked the lock.,The lock opened.,effect,1,75,False
+The crowd increased.,The father gave his son money.,The father grabbed his son's hand.,effect,1,76,False
+The ice had blocked the way.,I collected snow into a snowball.,I removed the snow from the path.,effect,1,77,False
+The rowers pounded their oars.,The kayak landed on the beach.,The kayak hit the wave.,effect,0,78,False
+The girl lost the direction of her bike.,He let go of the steering wheel.,He hit himself against the wall.,effect,1,79,False
+I turned on the fan.,Water spilled on my skin.,I felt cold air passing over me.,effect,1,80,False
+The sailors at sea returned to shore.,They were filled with moisture.,They saw the pope.,effect,1,81,False
+I pulled the faucet plug into the bathtub.,Water flowed into the basin.,Water scattered on the floor.,effect,0,82,False
+The husband felt guilty about insulting his wife.,He accused her of dishonesty.,He confessed his infidelity to her.,effect,1,83,False
+The ink on the poster stuck.,I waited for the ink to dry.,I poured water on the poster.,cause,1,84,False
+The baby woke up crying.,He had a bad dream.,He made the bed.,cause,0,85,False
+The boy put his feet on the table.,His father sat down at the table.,His father rebuked him.,effect,1,86,False
+My friend turned his head to my side.,I called his name.,I waved.,cause,0,87,False
+The government oppressed its citizens.,Citizens plotted rebellion.,Citizens registered to vote.,effect,0,88,False
+The boy disappeared into the forest.,He pitched his tent.,He cried out for help.,effect,1,89,False
+The woman traveled abroad.,He wanted to learn how to draw.,He wanted to learn about another culture.,cause,1,90,False
+The man was jealous of his co-worker.,A colleague was promoted.,A co-worker worked until late at night.,cause,0,91,False
+Man witnessed creatures from another planet.,He was thinking of imaginary things.,He was meditating.,cause,0,92,False
+The man's hair turned golden.,He put a bleach in it.,He put a shampoo in it.,cause,0,93,False
+The artist created a new work.,He criticized his previous work.,He felt compelled to find motivation.,cause,1,94,False
+The baby boy moved out of the house.,He had been released from the army.,He was going to college.,cause,1,95,False
+The books fell into the bookcase.,The shelves were covered with dust.,The earthquake shook the bookcase.,cause,1,96,False
+The electricity in my house is off.,I turned on the lights.,I adjusted the fuse.,effect,1,97,False
+We were carried by a container to an amusement park.,This tool was terrifying.,This tool was fun.,effect,1,98,False
+The bus bag began to fall off.,I poured butter into a bag.,I set it on fire in the microwave.,cause,1,99,False
+The tree fell into an electric wire.,The electricity went off in the street.,The forecast predicted strong winds.,effect,0,100,False
+The spokesman made a politically incorrect comment.,He annoyed the audience.,He annoyed the audience.,effect,1,101,False
+I stabbed myself with pins.,Drops of sweat dripped from my face.,A drop of blood rose from my finger.,effect,1,102,False
+The fish floated on the surface of the barrel.,He was hungry.,He was dead.,cause,1,103,False
+The voice of a dry man.,She has got the flu.,He quit smoking.,cause,0,104,False
+The elevator door opened.,The elevator reached the selected floor.,The elevator froze in the middle of the floor.,cause,0,105,False
+The young man sneaked into the house.,He deceived his elders.,Her parents prevented her from leaving.,cause,1,106,False
+The toilet was full of water.,The toilet was overflowing.,The hot water tank was damaged.,cause,0,107,False
+The little dog sat next to its owner.,The owner kept a small dog for him.,The owner put the little dog in a chain.,cause,1,108,False
+The man found his likeness.,He stood under a scattered tree.,He stood in a calm lake.,cause,1,109,False
+I missed my girlfriend's phone call.,I called him again.,I met him for dinner.,effect,0,110,False
+The family was on the street.,The dog ran home.,Expensive gems were lost in their home.,cause,0,111,False
+I noticed my breath as I took a deep breath.,The weather was calm.,The chest felt tight.,cause,0,112,False
+Employees formed a federation.,They wanted a better working environment.,Their employer added a salary.,cause,0,113,False
+I baked an apple pie.,The stench of rot filled the kitchen.,A pleasant aroma filled the kitchen.,effect,1,114,False
+The woman had difficulty walking.,He wore shoes with high heels.,He took off his shoes.,cause,0,115,False
+The steam came out of the water.,The water boiled.,I covered the pot.,cause,0,116,False
+All my socks are in the laundry.,I wore plain.,I wore boots.,effect,0,117,False
+The politician's argument was considered absurd.,He lost the support of the voters.,He had been accused of corruption.,effect,0,118,False
+Each refused to date.,The couple got pregnant.,The lovers fled.,effect,1,119,False
+The building was specialized for millionaires.,The millionaire wanted the building demolished.,A millionaire donated money to build it.,cause,1,120,False
+The sales partner accused the girl of stealing.,The sales partner saw the girl putting the product in her wallet.,The sales partner helped the girl find her favorite wallet.,cause,0,121,False
+The country declared war on the surrounding areas.,Soldiers were sent for fighting.,The soldiers were reunited with their families.,effect,0,122,False
+The courts upheld the controversial decision.,Violence erupted in front of the courthouse.,The couple exchanged vows in front of the courtroom.,effect,0,123,False
+The girl smelled something burning.,He pulled the biscuits out of the bottle.,He left the biscuits in the oven.,cause,1,124,False
+The rain was pouring down.,The storm was even worse.,I ran inside.,effect,1,125,False
+Those inside the palace were released.,The elevator stopped working.,The fire bell rang.,effect,1,126,False
+The father hated his son's alcoholism.,The father bought his son a beer.,The father drove his son out of the house.,effect,1,127,False
+The lawyer climbed the stairs to his office.,The clerk went home for a break.,The elevator was bad.,cause,1,128,False
+The man has been harassed by his friends.,His friends cut him off.,Her friends bought her lunch.,cause,0,129,False
+The girl gave him cash.,Keshia returned her change.,Keshia forgot to give the girl a receipt.,effect,0,130,False
+The woman was placed in a wheelchair.,He was paralyzed from the accident.,He was hospitalized in a stretcher.,cause,0,131,False
+Citizens hoisted the national flag outside their homes.,The country was remembering their independence.,The country was going through economic hardships.,cause,0,132,False
+The team lost in the tournament.,They saddened their fans.,They excited their fans.,effect,0,133,False
+My friend showed me that I had food stuck in my teeth.,I felt embarrassed.,I felt proud.,effect,0,134,False
+The boy failed his history test.,He was attentive in class.,He forgot to read.,cause,1,135,False
+The city center collapsed.,An earthquake shook the city.,The crime rate in the city increased.,cause,0,136,False
+His girlfriend has broken up with him.,He asked her to reconcile with him.,He introduced her to his parents.,effect,0,137,False
+Two children came down to hit the ball at the same time.,The ball rolled.,Their heads collided.,effect,1,138,False
+Rakuni dug up a garbage can.,There was cardboard inside a trash can.,The lid was open on a trash can.,cause,1,139,False
+The boy drew a pencil.,It was easy.,It was dull.,cause,1,140,False
+The cashier refused to allow the woman to return the money for the clothes.,He lost his receipt.,The clothes did not fit her.,cause,0,141,False
+The scratches on my skin were huge.,You cooled down quickly.,You left a scar.,effect,1,142,False
+The man got a strange look from the passengers inside the train.,He was shining down.,He was circling alone.,cause,1,143,False
+The child left crumbs on the floor.,Sisimizi crawled on the crumbs.,The child put the bread away.,effect,0,144,False
+The woman handed the tissue to her sister.,The woman's sister folded her arm.,The woman's sister began to cry.,cause,1,145,False
+The man took nanaa.,Her lips were dry.,He was worried about the bad smell.,cause,1,146,False
+The couple left early for the show.,They expected a gathering around the hall.,They received directions to the hall.,cause,0,147,False
+The woman stayed home from work.,His boss congratulated him.,A co-worker took a chance for him.,effect,1,148,False
+The man signed activists' activist application.,He supported their cause.,He rebuked them like a madman.,cause,0,149,False
+The actor's heart was pounding before the act.,He got scared of the platform.,He memorized his verses.,cause,0,150,False
+I was lost.,I counted my money.,I didn't open the map.,effect,1,151,False
+The ripe fruit was left in the sun.,It was eaten.,Lilisinyaa.,effect,1,152,False
+The car broke down.,I lit a fire.,The engine got very hot.,cause,1,153,False
+The man injured his back.,She went to see a psychiatrist.,He stayed in bed for seven days.,effect,1,154,False
+I lit a fire in the fireplace.,I was short of wood.,It was cold in the house.,cause,1,155,False
+The woman stopped running.,He got a pimple inside his rib.,He gained new strength.,cause,0,156,False
+I knocked on my neighbor's door.,My neighbor welcomed me inside.,My neighbor left his house.,effect,0,157,False
+The woman held her breath in frustration.,Her husband did not understand her concern.,Her husband kissed her good-bye.,cause,0,158,False
+The teacher praised the students.,The students answered the question correctly.,The students were reluctant to answer the question.,cause,0,159,False
+The woman is deficient in eggs.,He went to the field.,He went to the supermarket.,effect,1,160,False
+I met an old friend.,I revealed the secret to her.,I hugged him.,effect,1,161,False
+The woman refused to go into the lake.,He caught a fish.,It looked dirty.,cause,1,162,False
+The student arrived in the classroom with a wet pillow.,His umbrella grew broken.,His bike was stolen.,cause,0,163,False
+The tortoise on the computer screen moved.,User clicked the turtle.,The user moved the turtle.,cause,1,164,False
+The driver took a roundabout route.,The accident happened on the highway.,He followed the truck in front of him.,cause,0,165,False
+I hung the water-soaked linen on the outer strap.,Then it dried up.,Lasi went into the spots.,effect,0,166,False
+The woman was wearing dark glasses.,The sunlight was bright.,He took off his hat.,cause,0,167,False
+The man stared at the night sky.,He wished it were summer.,He thought it was good.,cause,1,168,False
+I felt bored.,I went to bed early.,I stayed awake all night.,effect,0,169,False
+The man went to the barber.,She was growing her hair.,Her hair was long.,cause,1,170,False
+The boy teased the new student in the classroom.,The boy welcomed the new student.,The boy did not like the new student.,effect,1,171,False
+I craved a glass of milk.,I used to eat biscuits.,I used to bake bread.,cause,0,172,False
+It started to rain.,The driver turned on the flashlights.,The driver switched the car backwards.,effect,0,173,False
+Most of the parking lots were empty.,I parked in the middle of the street.,I parked it near the door.,effect,1,174,False
+The author missed the deadline for submitting the bill.,He was given a restraining order by the author.,He edited the bill.,cause,0,175,False
+The partner called me.,I wanted to talk to the supervisor.,I got my ID number.,cause,0,176,False
+The wind blew through an open window.,The doorbell rang.,The curtains shook.,effect,1,177,False
+The electricity went off in my house.,I pulled out the lights.,I turned off the fuse.,cause,1,178,False
+The weightlifter sprang to his feet.,He showed his muscles in front of a mirror.,He lifted the iron over his head.,effect,1,179,False
+The student tried to do the math in his head.,He stopped the calculator.,He was confused.,effect,1,180,False
+The baby fell asleep.,The father changed the baby's diaper.,The father slowly shook the child.,cause,1,181,False
+The girl threw a water balloon at the boy.,The boy got a concussion.,The boy got married.,effect,1,182,False
+The photographer forgot to use the flash on the camera.,The image turned out to be foggy.,Everyone in the picture refused to smile.,effect,0,183,False
+I declined the birthday invitation.,I was lonely.,I was out of town.,cause,1,184,False
+I practiced.,I felt strong.,I was scared.,effect,0,185,False
+I squeezed a thin sponge.,It was wet.,Water flowed out of it.,effect,1,186,False
+Tourists boarded the ferry to the resort.,The rest area was set up early.,The rest area was on the island.,cause,1,187,False
+The boy has a tojo.,He was afraid of needles.,He wanted to rebel.,effect,1,188,False
+An unknown vehicle parked outside my house.,I was worried.,I called the soldiers.,effect,0,189,False
+The criminal surrendered himself inside.,The evidence involved him.,There was no evidence against him.,cause,0,190,False
+The fat man decided to lose weight.,He stopped eating sweets.,He abstained from caffeine.,effect,0,191,False
+The girl stepped on the ice.,He slipped.,She trembled.,effect,0,192,False
+The woman has a circle under her eye.,He stayed awake all night.,She sent her son to sleep.,cause,0,193,False
+Lava flowed from the volcano.,The volcano erupted.,The volcano was calm.,cause,0,194,False
+The woman put on her shoes.,He knew everyone at the ceremony.,He wanted to leave the party.,cause,1,195,False
+I paid the prison guard.,He gave me permission to pass to the prison.,He kept me in prison.,effect,0,196,False
+The executive went bankrupt.,He sold the company's shares.,He lost his possessions.,cause,1,197,False
+The man went to the doctor.,The doctor was on vacation.,The man was sick.,cause,1,198,False
+I left my bedroom through the window.,The house caught fire.,The house was empty.,cause,0,199,False
+The boy's fingers got wrinkled.,He bathed for a long time.,She rubbed soap on her fingers.,effect,0,200,True
+I spit milk.,The milk had a bitter taste.,My mouth was dry.,cause,0,201,False
+I missed the bus.,I had been to work.,I was late for work.,effect,1,202,False
+The truck collided with the car.,The truck increased speed.,The car broke down.,effect,1,203,False
+The team cheated the tournament to their advantage.,They won.,They volunteered.,effect,0,204,False
+A bottle of soda makes a sound.,I turned the bottle over.,I rolled up the lid.,cause,1,205,False
+The boy was locked out of his house.,He crawled in through an open window.,He climbed on the roof.,effect,0,206,False
+The doorbell rang.,The stranger knocked on the door.,The woman looked through the keyhole in the door.,effect,1,207,False
+The man soiled his suit.,He found them washing laundry.,He hung it up in his closet.,effect,0,208,False
+The girl squeezed a tube of toothpaste.,Toothpaste flowed from the tube.,The girl spit toothpaste.,effect,0,209,False
+Civilian casualties from the war doubled.,Opponents of the war marched.,Opponents of the war staged a parade.,effect,0,210,False
+The girl quickly pulled the ribbon from her hair.,He tied the ribbon.,The ribbon looked childish.,cause,1,211,False
+The man underwent genetic surgery.,He grew old.,He looked young.,effect,1,212,False
+The baby chicken came out of the egg.,The egg was hatched.,I broke the egg.,cause,0,213,False
+The prisoner was hungry.,He died.,He ran away.,effect,0,214,False
+The man lost his balance on the stairs.,He climbed the stairs.,He fell down the stairs.,effect,1,215,False
+He hit the seed.,He smoked soda.,He opened a soda can.,cause,0,216,False
+The cold wind blew through the window.,I calmed down.,I trembled.,effect,1,217,False
+The student got the opportunity to be paid for tuition to go to college.,Her classmates respected her.,He got good results.,cause,1,218,False
+The girl teased the boy.,He lived next to her.,He grew with feelings of love for her.,effect,1,219,False
+A hungry Bedouin stole food.,He stirred compassion.,He had no money.,cause,1,220,False
+I called my friend for a chat.,I wanted privacy.,I felt lonely.,cause,1,221,False
+The man held out his hand to me.,I shook his hand.,I slapped him.,effect,0,222,False
+I avoided it.,Fireworks were fired into the air.,The plate flew towards my head.,effect,1,223,False
+The girl chewed on her nails.,He was worried.,He was shocked.,cause,0,224,False
+I turned the pages on the calendar.,I marked the appointment on the calendar.,It was the beginning of the month.,cause,1,225,False
+The Lord discovered that his wife grew up with a side relationship.,He fired his lawyer.,He initiated the divorce process.,effect,1,226,False
+The girl dropped the ball.,The ball hit.,The ball is shining.,effect,0,227,False
+The girl made a mistake on the test.,He guessed the answer.,He deleted his answer.,effect,1,228,False
+The player confronted his opponent.,His opponent got the ball.,His opponent fell to the ground.,effect,1,229,False
+I picked tomatoes from the field.,They were ripe.,I watered them.,cause,0,230,False
+The man wanted to show affection.,He met his ex-girlfriend for lunch.,She bought chocolate for her boyfriend.,effect,1,231,False
+The mercury inside the thermometer rose.,I dropped the thermometer.,The weather was very hot.,cause,1,232,False
+The tornado came toward the city.,The roof of the court collapsed.,The highway was dangerous.,effect,0,233,False
+The students got a twig.,His marks improved.,He cheated on the test.,effect,0,234,False
+I felt comfortable.,I knelt down on the street.,I covered myself with a blanket.,effect,1,235,False
+I rolled the stone.,It was slippery.,It was glowing.,effect,1,236,False
+I added sugar to the coffee.,The coffee smelled bitter.,The coffee had a sweet taste.,effect,1,237,False
+The man went through the paperwork.,He was cut with paper.,He tore up the papers.,effect,0,238,False
+I hit the nail with a hammer.,The nail sank into the board.,The nail has rusted.,effect,0,239,False
+The fish pulled the belt.,The fisherman pulled the fish to the girdle.,The fisherman threw the belt back into the water.,effect,0,240,False
+The boy was embarrassed to go to school.,He grew swollen.,He pulled out his crutches.,effect,0,241,False
+My facial expressions lit up.,I received the good news.,I lost my patience.,cause,0,242,False
+I wiped my hands with a towel.,The towel was wet.,My hands were wet.,cause,1,243,False
+The man missed the balance on the chair.,The chair shook him to the ground.,He poured the paint on the chair.,cause,0,244,False
+The players blamed each other directly.,They lost their game.,Their coach postponed the practice.,cause,0,245,False
+I wanted an apology.,I regretted my decision.,I achieved my goals.,cause,0,246,False
+The woman was fed up with her appointment.,He asked her questions about herself.,He spoke consistently about himself.,cause,1,247,False
+The girl lit up with a smile.,Her cheeks turned red.,His buttons showed off.,effect,1,248,False
+Enemy ships exploded.,It passed over me.,It anchored at the port.,cause,0,249,False
+The man injured his leg.,He dived into the abyss.,He stomped on the broken glass.,cause,1,250,False
+Detectives removed dust from the crime area with their fingers.,They discovered the identity of the killer.,They found weapons in the crime scene.,effect,0,251,False
+There was heavy traffic on the highway.,I passed a shortcut.,I asked for a bike path.,effect,0,252,False
+The country's economy plummeted.,Many people were sick.,Most people were unemployed.,effect,1,253,False
+A roadmaster blew a whistle for children.,They wanted to go where the traffic was coming from.,He recognized them from his neighborhood.,cause,0,254,False
+I turned my eyes to my friend.,He told me the truth.,He made derogatory remarks.,cause,1,255,False
+The car drove without gas.,The driver was hit on the road.,The driver picked up the fighters.,effect,0,256,False
+The woman went into the delivery room.,The baby was born.,The woman had morning pain.,effect,0,257,False
+The man's hat was off.,He took off his hat.,There was a wind outside.,cause,1,258,False
+The girl attended a fellow student's birthday party.,He accepted the invitation.,He bought a gift.,cause,0,259,False
+The boy felt a warmth in his forehead.,His mother looked at him warmly.,His mother took him to the garden.,effect,0,260,False
+The man spray-painted himself.,She wanted to photograph her date.,She greased her hair.,cause,0,261,False
+The electricity was turned off in the house.,I searched for a flashlight.,I picked up a shovel.,effect,0,262,False
+The family moved into a large house.,The young man graduated from high school.,The mother gave birth to twins.,cause,1,263,False
+The runner used a slow motion.,He wanted to preserve his power.,He saw the last line.,cause,0,264,False
+The boy hit the vending machine.,The machine spit out its change.,The bag of straps was stuck.,effect,1,265,False
+My friend's dog died.,I turned my eyes to him.,I hugged him.,effect,1,266,False
+The merchant's credit card dropped.,He wrote IOU.,He paid in cash.,effect,1,267,False
+The man cursed.,He cut his nails.,He was hit on his finger.,effect,1,268,False
+The man pretended to be because of his brother.,Her brother was given an argument by their parents.,His brother was admitted to law school.,cause,1,269,False
+The girl wanted to learn about solar energy.,He went to the library.,He looked at the stars.,effect,0,270,False
+The poster stuck in the wall.,I put a poster over the door.,I put a ribbon on my ribs.,cause,1,271,False
+The client approved the architect's plans for the building.,The architect designed the building.,The architect revised the plans.,effect,0,272,False
+The man dropped his spoon.,His hand was shaking.,He licked the spoon.,cause,0,273,False
+The CEO of the company resigned.,The board of directors dissolved the company.,The board of directors sought a replacement.,effect,1,274,False
+I was late getting to the lecture.,I sat in the back row.,I approached the Podium.,effect,0,275,False
+The man was released from prison.,His family paid for his debt.,He attacked his fellow prisoners.,cause,0,276,False
+The family lost all their possessions.,They sold their house.,Their house burned down.,cause,1,277,False
+I was beaten in an aluminum canister.,The bottle was being repaired.,The request was struck.,effect,1,278,False
+The girl joined the discussion team.,He learned to use computers.,He learned conversational skills.,effect,1,279,False
+My feelings were strengthened.,I listened to music.,I made pots.,cause,0,280,False
+The charitable organization set out to raise funds.,They fed the homeless.,They had an auction.,effect,1,281,False
+Roll the cast fell down a steep slope.,The passengers laughed.,Passengers shouted.,effect,1,282,False
+I was angry.,I checked the mailbox as I left the house.,I knocked on the door as I was leaving the house.,effect,1,283,False
+The man wanted to watch the sunrise.,He traveled north.,He woke up early.,effect,1,284,False
+He folded the paper.,I reworked the paper.,The paper was torn.,effect,1,285,False
+The country was hit by a natural disaster.,Leaders of other countries formed alliances.,Leaders of other countries sent emergency aid.,effect,1,286,False
+The boy's clothes were worn.,He climbed over the pool.,He fell into a pool.,cause,1,287,False
+The student quickly finished the book.,It was because of the desire to restore the library.,He borrowed it from his friend.,cause,0,288,False
+The criminal was killed.,He was sent to prison.,He was sentenced to death.,cause,1,289,False
+Sunlight entered the room.,I opened the curtain.,I opened the door.,cause,0,290,False
+I pulled the hair of the sculptor.,Her artificial hair fell out.,He shaved his head.,effect,0,291,False
+The editor referred to the sentence in the bill.,He found the bill compelling.,He found the sentence controversial.,cause,1,292,False
+The woman canceled her credit card account.,He discovered the card did not exist.,He found out the card expiration date.,effect,0,293,True
+Man and woman fell in love.,They attended college.,They got married.,effect,1,294,False
+The music was too weak to hear.,I added sound.,I composed my own song.,effect,0,295,False
+The boy's hair was standing on end.,The girl held on to the hair.,The girl pulled out the hair.,effect,0,296,True
+The worm was squeezed.,I sprayed myself with insect repellent.,I stepped on the bug.,effect,1,297,False
+I opened my eyes.,I woke up.,I rested.,cause,0,298,False
+The music of my neighbor cried.,I asked him to lower his voice.,I asked him to turn off the CD.,effect,0,299,False
+The man's family lived a life of poverty.,He laughed at his income.,He earned less than the minimum wage.,cause,1,300,False
+The student graduated from university.,He looked for a job.,He did what he loved.,effect,0,301,False
+The artist mixed yellow in blue.,The color spread all over the place.,The color turned green.,effect,1,302,False
+I changed the subject of the conversation.,I ran out of things to talk about.,Conversations became difficult.,effect,1,303,True
+My brother was released from the hospital.,I welcomed him back home.,I rejected him.,effect,0,304,False
+The curtain in the platform went up.,The opening scene of the drama began.,Actors thrilled the stage.,effect,0,305,False
+Teka was sent to the hijackers' authority.,The kidnapper threatened to hurt the abductor.,The kidnapper let her kidnap herself.,cause,0,306,False
+A cry rang out from the platform.,The musician kicked his leg.,The musician performed a series of drums.,cause,1,307,False
+The parents rushed to their child's bedroom.,The baby woke up and screamed from the nightmare.,The baby was afraid to get out of bed.,cause,0,308,False
+The woman communicated in sign language.,He was born prematurely.,He was born deaf.,cause,1,309,False
+Drought occurred in the region.,The water was polluted.,Yields were lost.,effect,1,310,False
+The cat chased the bird.,The plane flew.,The plane caught training.,effect,0,311,False
+The girl changed schools.,The school was closed for the summer.,He moved to a new city.,cause,1,312,False
+The factory owner refused to increase the wages of the employees.,The owner appointed a new manager.,Employees went on strike.,effect,1,313,False
+The leader provoked the powerful in the midst of his country.,The powerful persuaded him.,The powerful killed him.,effect,1,314,False
+I walked alone on the beach.,The sand froze to my feet.,The waves crashed on the shore.,effect,0,315,False
+I woke up in the middle of the night feeling cold.,I wore light pants.,I drank a glass of water.,effect,0,316,False
+The mother silenced her son.,Her baby smiled.,Her son complained.,cause,1,317,False
+Tobo erupted in my jeans.,I unzipped my jeans.,I was trapped in the path of pedestrians.,cause,1,318,False
+The boy wore a gango.,He got a hole in his teeth.,His teeth became straight.,effect,1,319,False
+Yesterday I worked hard in the gym.,Today I woke up with muscle pain.,Today I woke up with a sore throat.,effect,0,320,False
+The girl whispered and spread to everyone at the lunch table.,The other students sat down at the lunch table.,The other students at the dinner table felt compelled to leave.,effect,1,321,False
+The baby came down to the trampoline.,He flew back into the sky.,He decided to try to roll over in the air.,effect,0,322,False
+I sent the letter in the mailbox.,The post office received a letter.,The post office hastened the letter.,effect,0,323,False
+The gambler was confident.,He deposited all his money.,He went home bankrupt.,effect,0,324,False
+Forest fires spread.,The wind was strong.,The arsonists were taken.,cause,0,325,False
+The child scratched the skin on his feet.,His mother took him to her room.,Her mother put a bandage over the wound.,effect,1,326,False
+The man survived the plague.,He signed his will (consent).,He received a link transfer.,cause,1,327,False
+I tossed a hot coffee bottle.,I bit my tongue.,I burned my tongue.,effect,1,328,False
+The editor fired the author.,The author avoided bias in his stories.,The author missed the deadline.,cause,1,329,False
+I felt exhausted.,I slept all day.,I read all day.,cause,1,330,False
+The doctor identified the patient.,He noticed the symptoms of the patient.,She prescribed pills for the patient.,cause,0,331,False
+I scratched my skin.,I was sweating.,It was burning.,cause,1,332,False
+The man underwent emergency surgery.,He lost his temper.,He suffered from a heart attack.,cause,1,333,False
+The muscles of a man's hands were numb.,He folded his arms.,He pushed his hands.,cause,0,334,False
+The man raised his eyebrows.,He was wondering.,He felt disappointed.,cause,0,335,False
+I forgave my partner's mistake.,I believed his intentions were good.,I believed he realized better.,cause,0,336,False
+The man stopped smoking.,He started practicing more.,He began to walk early.,effect,0,337,False
+The woman punched her attacker in the nose.,The body of his attacker died.,The attacker began to bleed.,effect,1,338,False
+The arrow missed the target.,The man targeted the wrong.,The man was losing the game.,effect,0,339,False
+The landlord claimed that the destroyer was coming to his house.,He discovered a mouse under the house.,He put a box of ants in his room.,cause,0,340,False
+I suggested to my guest that we go out for dinner.,I was too tired to prepare anything.,My guest stayed very long.,cause,0,341,False
+The girl caught her brother reading his diary.,He began to hide his diary.,He got a new diary.,effect,0,342,False
+The woman ran out of money for rent.,He worked overtime.,He quit his job.,effect,0,343,False
+The baby's hand was suddenly restored.,He touched the hot stove.,He touched the dog's head.,cause,0,344,False
+The company wanted to measure customer satisfaction.,They offered discounts to new customers.,They did research on clients.,effect,1,345,False
+The wooden floor cracked.,The boy threw the pillows on the couch.,The boy dragged a chair to the floor.,cause,1,346,False
+I covered my face.,My enemy blamed me.,My enemy clenched his fists.,cause,1,347,False
+The famous statue burned.,It was struck by light.,People came to pay homage to him.,cause,0,348,False
+I removed the fruit on the table.,The fruit yielded seeds.,Flies surrounded the fruit.,effect,1,349,False
+The female bale player split the fibers.,He pointed his toes.,He shook his ankle.,cause,1,350,False
+The baby's shoe strap was untied.,He learned how to close it.,He went running in the playground.,cause,1,351,False
+I was fascinated by the book.,I returned the book.,I wasted a lot of time.,effect,1,352,False
+The man had the same beliefs as his parents.,Her parents persuaded her.,His parents rejected him.,effect,0,353,False
+The car began to stop slowly.,It ran out of gas.,The driver fell asleep.,cause,0,354,False
+The man ate ice cream in the sun.,The ice cream lost its flavor.,The ice cream dropped from the cone.,effect,1,355,False
+I hung the drawing in the closet.,The carpet looked dirty.,The walls seemed empty.,cause,1,356,False
+I quit my job early.,I had a headache.,My boss conducted the meeting.,cause,0,357,False
+The puppy soiled the carpet.,He himself rebuked the puppy.,He himself gave the gift to the puppy.,effect,0,358,False
+I apologized to my friend.,My friend forgave me.,My friend was angry.,effect,0,359,False
+The man was different from the crowd.,He carried a shoulder bag.,He wore a neon T-shirt.,effect,1,360,False
+The witness swore in the oath.,He completed his testimony.,He was falsely charged.,effect,1,361,False
+The woman dyed her hair.,He wanted to look new.,He wanted to mix them up.,cause,0,362,False
+Immigrants were arrested for living in the country illegally.,They got jobs.,They were removed from the country.,effect,1,363,False
+The public speaker made a joke.,The audience cried.,The audience stopped.,effect,0,364,False
+I looked at the sun.,The sun beat down on me.,The sun softened my skin.,effect,0,365,False
+I felt tired.,I took a deep breath through my nose.,I went to my home.,effect,1,366,False
+The meat was hard to cut.,The knife was missing.,The meat was raw.,cause,0,367,False
+The woman declared bankruptcy.,He received a cash payment.,He was given a huge debt.,cause,1,368,False
+The lights in my friend's apartment were turned on.,I wondered if he was out.,I decided to visit her.,effect,1,369,False
+I put a flower under my nose.,Petals provided flowers.,I smelled the smell of or.,effect,1,370,False
+The woman was taken aback by positive thoughts.,He got along with his childhood friend.,She screamed at her children.,effect,0,371,False
+The student postponed the paper.,He sent the paper early.,He sent the paper unfinished.,effect,1,372,False
+My car broke down.,I went to the shops.,I called a mechanic.,effect,1,373,False
+I rejected the text.,It was unknown.,It was unreadable.,cause,1,374,False
+The bird fluttered its wings.,She laid eggs.,He ascended on high.,effect,1,375,False
+I parked it in a small driveway to the garage.,The garage was open.,The garage was full.,cause,1,376,False
+The offender intended to shoot the victim.,The criminal put the gun down.,The criminal raised his hand.,effect,1,377,False
+I was looking forward to the weekend.,I planned to attend my uncle's funeral.,I planned to attend my friend's wedding.,cause,1,378,False
+I wasted a lot of time.,I had a lot of good ideas.,I was nauseous.,cause,0,379,False
+The text was printed on unreadable documents.,The printer had a little ink.,The printer was not carrying paper.,cause,0,380,False
+The national anthem was played in a stadium.,The fans turned to the flag.,Fans ran towards the stadium.,effect,0,381,False
+The sauce lacked flavor.,I handled it.,I added salt.,effect,1,382,False
+I put the towels in the light.,The towel absorbed the liquid.,The light retained viscosity.,effect,0,383,False
+The woman interrupted in the middle of reading her book.,He put a mark on the paper.,He read the book again.,effect,0,384,False
+The plane crashed.,The man tightened his seat belt.,The man looked out the window.,effect,0,385,False
+The boy was shocked.,The girl ignored him.,The girl touched him with her finger.,effect,1,386,False
+Doctors gave the patient an artificial leg.,They released his leg.,They managed its vital organs.,cause,0,387,False
+The boy squeezed the girl's wrist.,He made an effort to move her shoulder.,He stretched out his hand from her.,effect,1,388,False
+I asked my friend for advice.,I appreciated his comment.,I realized I was right.,cause,0,389,False
+The boy stomped in the mud.,The mud rolled in his shoes.,The mud hit him in the face.,effect,0,390,False
+The city got several inches of snow.,Schools were closed.,People hid underground.,effect,0,391,False
+The employee's turn ended.,He went home for a day.,He threatened to quit his job.,effect,0,392,False
+A tree destroyed the house.,A tree fell on the roof.,The tree cast a shadow on the yard.,cause,0,393,False
+The wood cracked in the middle.,I added wood to the fire.,I lowered my ax to target the wood.,effect,1,394,False
+The family congratulated the couple.,The couple announced their separation.,The couple announced that they had had a baby.,cause,1,395,False
+The girl handed the boy a card.,He loved her.,He kissed her.,cause,0,396,False
+I shook my head in agreement with my friend's statement.,I was confused.,I agreed with him.,effect,1,397,False
+Friends swung the coin.,They wanted to find the right one.,They wanted to make the right decisions.,cause,1,398,False
+The clock turned off in the kitchen.,The man unloaded the vegetables in the refrigerator.,The man handed the pizza to the stove.,effect,1,399,False
+The woman set the goals she wanted.,He did not reach it.,He worked hard.,effect,1,400,False
+A rich man died with a veteran.,Her son had legal problems.,His son inherited his wealth.,effect,1,401,False
+The woman stepped on the fire.,The fire was extinguished.,Smoke billowed from the fire.,effect,0,402,False
+The woman's car was in the maintenance section.,The driver's license had expired.,He had a car accident.,cause,1,403,False
+I fell asleep and crossed my watch.,I prepared breakfast.,I missed breakfast.,effect,1,404,False
+The journalist got out of the luxury car.,The camera flashed in its side.,His family attended a press conference.,effect,0,405,False
+The woman sat for a long time in the bathroom.,The bath water was a little hot.,The bath water came out of the ball.,effect,0,406,False
+A university student wanted to see more students on campus.,He supported the brotherhood.,He took an engineering course.,effect,0,407,False
+I lifted the cushion pillow.,I was looking for coins.,I was rearranging the living room.,cause,0,408,False
+Nyiga flew towards the boy.,The boy ran away.,The boy picked up the flower.,effect,0,409,False
+The woman was convicted of a minor offense.,He was ordered to perform social services.,He was placed on a death row.,effect,0,410,False
+I stirred the sugar in the hot tea.,The tea cooled.,Melted sugar.,effect,1,411,False
+The war veteran walked with a limp.,He was taken into battle.,He was wounded in battle.,effect,1,412,False
+The criminal fled from the soldiers.,The soldier went to the victims.,The soldier chased the criminal.,effect,1,413,False
+The computer would not turn on.,Déixeo caer.,I added a charge.,effect,0,414,False
+The space in the wardrobe ended for the woman.,He got a lot of clothes.,He rolled up his clothes.,effect,0,415,False
+The man was devastated.,His wife gave birth.,His wife abandoned him.,cause,1,416,False
+The man got a degree.,He got the qualities of the job he wanted.,An offer for his work was removed.,effect,0,417,False
+The man's voice reached all parts of the audience.,He greeted the audience.,He spoke through a microphone.,cause,1,418,False
+I threw the coin into the water.,The coin sank to the bottom.,The coin flashed in the middle.,effect,0,419,False
+The player threw the ball towards the shaft.,The ball went into the ditch.,The ball returned to the player.,effect,0,420,False
+I inhaled the dust in the ceiling.,I went to the kitchen.,I sneezed.,effect,1,421,False
+The store accountant called them for safety.,The client spent counterfeit money.,The client let his front lamp light up.,cause,0,422,False
+I threw the trash out.,Garbage brought a bad smell to the kitchen.,Unfortunately I gave up my shopping list.,cause,0,423,False
+The family went to the zoo.,The children loved animals.,The children chased the animals.,effect,0,424,False
+The man inhales loudly.,The kidneys refused.,The lungs were blocked.,cause,1,425,False
+I had an extra ticket for the concert.,I asked my friend to point me to the scene.,I asked my friend if she could go.,effect,1,426,False
+The air conditioner was damaged inside the house.,I took off the blanket.,I opened the window.,effect,1,427,False
+The boy's back hurt.,The shoulder bag was open.,The shoulder bag was heavy.,cause,1,428,False
+I bought my mother a gift.,I decorated the cake for her.,It was his birthday.,cause,1,429,False
+Flowering plants in the garden were destroyed.,The bee stung the farmer.,Chindi dug up the bulbs of the plants.,effect,1,430,False
+I lit a match.,The fire faded.,Brimstone generated fire.,effect,1,431,False
+The rival parties signed a treaty.,They did not want to argue in court.,They wanted to rekindle their relationship.,cause,0,432,False
+The children were sent to an orphanage.,Their parents died.,Their parents destroyed them.,cause,0,433,False
+The meteor fell into the sea.,A tsunami struck.,Hail began.,effect,0,434,False
+The wanderer confronted the venomous snake.,She was dehydrated.,She was scared.,effect,1,435,False
+The stove caught fire.,I turned on the stove.,I threw the pan into the stove.,cause,0,436,False
+He pressed the lemon peel.,Lemon made a mist.,Lemon was extracted.,effect,1,437,False
+The country discovered new land.,The country demolished the land.,The country ruled the land.,effect,1,438,False
+The glass fell on the table.,It broke and spread all over the floor.,It was placed in a pile of clothes to be washed.,effect,0,439,False
+The table shook.,The floor was not exactly the same.,The floor was slippery.,cause,0,440,False
+A father caught his sleeping son.,Her son admitted the truth.,The father trusted his son.,effect,0,441,False
+The man's head hurt.,She swallowed a chest pill.,He swallowed aspirin.,effect,1,442,False
+The train slowed down.,It was approaching the station.,It was going against his schedule.,cause,0,443,False
+The man went through treatment.,Her relative has a mental illness.,She was diagnosed with a mental disorder.,effect,1,444,False
+The woman grabbed his throat.,He swallowed his food.,He was fed with food.,cause,1,445,False
+The woman had a sore throat.,His voice was heavy.,He spoke emphatically.,effect,0,446,False
+The dog looked at the sides of the meat on the table.,He spat.,He lay down.,effect,0,447,False
+The woman's business was successful.,He fired his employees.,He was rich.,effect,1,448,False
+The students left the classroom.,The bell rang.,The teacher gave homework.,cause,0,449,False
+The woman claimed to have seen a demon.,His understanding showed suspicion.,His understanding matched his.,effect,0,450,False
+The man lost his hearing.,Almost lost in the ocean.,He is about to die in an explosion.,cause,1,451,False
+The child cut the balloon cord.,The balloon came out of the wind.,The balloon went into the air.,effect,1,452,False
+The man lost his ability to speak.,He had a stroke.,He took a deep breath.,cause,0,453,False
+A woman tripped on a pedestrian's path.,There was a crack in the concrete.,He heard his name called.,cause,0,454,False
+The man threw himself into the pool.,The rescuer threw himself after him.,The man drowned the rescuer.,effect,1,455,False
+I took an antiseptic.,My infectious disease was gone.,My infectious disease spread.,effect,0,456,False
+The traffic light flashed yellow.,The driver applied the brakes.,The driver blew the horn.,effect,0,457,False
+The plastic container melted.,I soaked the vessel in hot water.,I put the container in the hot stove.,cause,1,458,False
+The car broke down.,The driver stepped on the tip of the phone.,The driver walked while the red light was on.,cause,0,459,False
+The boy read all night.,He skipped the test.,He passed the test.,effect,1,460,False
+The little boy clung to the edge of the swimming pool.,He was afraid to swim.,The keeper of the pool grew up there.,effect,0,461,False
+I put my hand on my chest.,I felt my heartbeat.,The heart rate increased.,effect,0,462,False
+A building near my office was under construction.,My office was crowded.,My office was noisy.,effect,1,463,False
+Families wanted to get to know their new neighbors.,The family invited their neighbors over for dinner.,The families waved to their neighbors from their garden.,effect,0,464,False
+Water flowed out of the pool.,The swimmer dived into the pool.,The swimmer floated in the pool.,cause,0,465,False
+I chewed on a piece of watermelon.,Unfortunately I swallowed the field.,Unfortunately I cut my tooth.,effect,0,466,False
+The boy stumbled.,His coat was unzipped.,His shoelaces were untied.,cause,1,467,False
+The woman wore an earring.,He was bothered by the noise.,He pierced his ears.,cause,0,468,False
+I refilled my water bottle.,I drank all the water in it.,I put it in the refrigerator.,cause,0,469,False
+The television show was evaluated for its language.,It had a ridiculous language.,It had a hard structure.,cause,0,470,False
+The ship crashed.,The crew drowned.,The crew was confronted by pirates.,effect,0,471,False
+The boy was puzzled by the riddle.,He solved the riddle.,He asked for a clue.,effect,1,472,False
+The phone rang.,The man lost his phone.,The man received the call.,effect,1,473,False
+The woman was staring at me.,I hugged him.,I felt anxious.,effect,1,474,False
+The group remained a museum.,They took pictures of the exhibition.,They watched all the shows.,cause,1,475,False
+The man began to argue with the mie.,My friend introduced me to a man.,My friend stood up for me.,effect,1,476,False
+The ball in my bike was asleep.,I put the wind in the tire.,I changed gears on the bike.,effect,0,477,False
+The girl appeared to be paralyzed.,Her father read her a story.,His father touched his forehead.,effect,1,478,False
+The pen finished the ink.,I used a pencil.,I signed my name.,effect,0,479,False
+The man was denied a loan.,He was in debt.,He started a business.,cause,0,480,False
+The girl stayed home from school.,He had chickenpox.,He enjoyed reading arithmetic.,cause,0,481,False
+The garbage bag was full.,I sent them to the leaf.,I tossed them under the toilet bowl.,effect,0,482,False
+I cleaned the carpet.,My colleagues in the room poured a drink.,My dog shed his hair.,cause,1,483,False
+The man was angry.,He turned off his computer.,He threw the chair into the room.,effect,1,484,False
+The girl threw a leaf into the fire camp.,The leaf burned.,The fire was extinguished.,effect,0,485,False
+The man came out of the bathtub.,The hot water was gone.,He did not see the towels.,cause,0,486,False
+Parents wanted their children to go to university.,They set aside money for extra tuition.,They encouraged their children to play outside.,effect,0,487,False
+The man untied his shoelaces.,The shoes were loose.,The shoes were dirty.,effect,0,488,False
+The man ate half a pot of meat.,The rest he put in the refrigerator.,He kept the recipe.,effect,0,489,False
+My ankle was swollen.,I put ice on it.,I smeared lotion on it.,effect,0,490,False
+The door to my office was wide open.,I talked to my colleagues at the desk.,I heard a conversation in the hall.,effect,1,491,False
+I had to wait in line.,I sat down.,I read the newspaper through.,effect,1,492,False
+The man hit her with a fly.,The fly flew away.,The fly remained stagnant.,effect,0,493,False
+The man wrote a will.,He was dying.,He had died with his wife.,cause,0,494,False
+The athlete felt as if his opponent was growing closer to him.,He came out of the competition.,He accelerated.,effect,1,495,False
+I thought carefully about the problem.,I asked for advice.,I found a solution.,effect,1,496,False
+The traveler passed through a suspended bridge.,She was scared.,He was happy.,effect,0,497,False
+The man relied on the group's victory.,He saw his friend watching the game.,Make a bet with his friend.,effect,1,498,False
+The boy could not sleep.,He set his alarm clock.,He counted the sheep.,effect,1,499,False

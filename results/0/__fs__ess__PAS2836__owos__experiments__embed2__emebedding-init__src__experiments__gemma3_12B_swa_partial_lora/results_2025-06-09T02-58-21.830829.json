@@ -1,0 +1,1331 @@
+{
+  "results": {
+    "copa": {
+      "alias": "copa",
+      "acc,none": 0.91,
+      "acc_stderr,none": 0.028762349126466108
+    },
+    "copa_es": {
+      "alias": "copa_es",
+      "acc,none": 0.818,
+      "acc_stderr,none": 0.01727277329773045
+    },
+    "paws_de": {
+      "alias": "paws_de",
+      "acc,none": 0.678,
+      "acc_stderr,none": 0.01045048354398722
+    },
+    "paws_en": {
+      "alias": "paws_en",
+      "acc,none": 0.7165,
+      "acc_stderr,none": 0.010080410822043325
+    },
+    "paws_es": {
+      "alias": "paws_es",
+      "acc,none": 0.656,
+      "acc_stderr,none": 0.010624897374662594
+    },
+    "paws_fr": {
+      "alias": "paws_fr",
+      "acc,none": 0.6645,
+      "acc_stderr,none": 0.010560569957105102
+    },
+    "paws_gl": {
+      "alias": "paws_gl",
+      "acc,none": 0.6115,
+      "acc_stderr,none": 0.010901527262192288
+    },
+    "paws_sw": {
+      "alias": "paws_sw",
+      "acc,none": 0.615,
+      "acc_stderr,none": 0.010883323176386987
+    },
+    "paws_ur": {
+      "alias": "paws_ur",
+      "acc,none": 0.573,
+      "acc_stderr,none": 0.011063304133448205
+    },
+    "xcopa_gl": {
+      "alias": "xcopa_gl",
+      "acc,none": 0.596,
+      "acc_stderr,none": 0.02196663529383292
+    },
+    "xcopa_it": {
+      "alias": "xcopa_it",
+      "acc,none": 0.724,
+      "acc_stderr,none": 0.02001121929807353
+    },
+    "xcopa_sw": {
+      "alias": "xcopa_sw",
+      "acc,none": 0.696,
+      "acc_stderr,none": 0.020591649571224932
+    },
+    "xcopa_th": {
+      "alias": "xcopa_th",
+      "acc,none": 0.648,
+      "acc_stderr,none": 0.021380042385946034
+    },
+    "xcopa_ur": {
+      "alias": "xcopa_ur",
+      "acc,none": 0.59,
+      "acc_stderr,none": 0.02201748257812767
+    },
+    "xnli_de": {
+      "alias": "xnli_de",
+      "acc,none": 0.5028112449799197,
+      "acc_stderr,none": 0.010021914455122183
+    },
+    "xnli_en": {
+      "alias": "xnli_en",
+      "acc,none": 0.5445783132530121,
+      "acc_stderr,none": 0.009982161147576333
+    },
+    "xnli_es": {
+      "alias": "xnli_es",
+      "acc,none": 0.516867469879518,
+      "acc_stderr,none": 0.01001636845302155
+    },
+    "xnli_fr": {
+      "alias": "xnli_fr",
+      "acc,none": 0.51285140562249,
+      "acc_stderr,none": 0.010018761856718263
+    },
+    "xnli_gl": {
+      "alias": "xnli_gl",
+      "acc,none": 0.5108804152525455,
+      "acc_stderr,none": 0.007063744681859495
+    },
+    "xnli_hi": {
+      "alias": "xnli_hi",
+      "acc,none": 0.4742971887550201,
+      "acc_stderr,none": 0.01000882225331204
+    },
+    "xnli_sw": {
+      "alias": "xnli_sw",
+      "acc,none": 0.4714859437751004,
+      "acc_stderr,none": 0.010005762674605288
+    },
+    "xnli_th": {
+      "alias": "xnli_th",
+      "acc,none": 0.48032128514056227,
+      "acc_stderr,none": 0.010014307727112705
+    },
+    "xnli_ur": {
+      "alias": "xnli_ur",
+      "acc,none": 0.42650602409638555,
+      "acc_stderr,none": 0.00991321594357053
+    },
+    "xstorycloze_en": {
+      "alias": "xstorycloze_en",
+      "acc,none": 0.7888815354070152,
+      "acc_stderr,none": 0.010502205965083534
+    },
+    "xstorycloze_es": {
+      "alias": "xstorycloze_es",
+      "acc,none": 0.727994705493051,
+      "acc_stderr,none": 0.011451551104259565
+    },
+    "xstorycloze_gl": {
+      "alias": "xstorycloze_gl",
+      "acc,none": 0.7015221707478491,
+      "acc_stderr,none": 0.011775741556410006
+    },
+    "xstorycloze_hi": {
+      "alias": "xstorycloze_hi",
+      "acc,none": 0.6796823295830576,
+      "acc_stderr,none": 0.012007565507943376
+    },
+    "xstorycloze_sw": {
+      "alias": "xstorycloze_sw",
+      "acc,none": 0.6690933156849769,
+      "acc_stderr,none": 0.012108982233131477
+    }
+  },
+  "group_subtasks": {
+    "copa": [],
+    "copa_es": [],
+    "paws_de": [],
+    "paws_en": [],
+    "paws_es": [],
+    "paws_fr": [],
+    "paws_gl": [],
+    "paws_sw": [],
+    "paws_ur": [],
+    "xcopa_gl": [],
+    "xcopa_it": [],
+    "xcopa_sw": [],
+    "xcopa_th": [],
+    "xcopa_ur": [],
+    "xnli_de": [],
+    "xnli_en": [],
+    "xnli_es": [],
+    "xnli_fr": [],
+    "xnli_gl": [],
+    "xnli_hi": [],
+    "xnli_sw": [],
+    "xnli_th": [],
+    "xnli_ur": [],
+    "xstorycloze_en": [],
+    "xstorycloze_es": [],
+    "xstorycloze_gl": [],
+    "xstorycloze_hi": [],
+    "xstorycloze_sw": []
+  },
+  "configs": {
+    "copa": {
+      "task": "copa",
+      "tag": [
+        "super-glue-lm-eval-v1"
+      ],
+      "dataset_path": "super_glue",
+      "dataset_name": "copa",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "def doc_to_text(doc):\n    # Drop the period\n    connector = {\n        \"cause\": \"because\",\n        \"effect\": \"therefore\",\n    }[doc[\"question\"]]\n    return doc[\"premise\"].strip()[:-1] + f\" {connector}\"\n",
+      "doc_to_target": "def doc_to_target(doc):\n    correct_choice = doc[\"choice1\"] if doc[\"label\"] == 0 else doc[\"choice2\"]\n    # Connect the sentences\n    return \" \" + convert_choice(correct_choice)\n",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [\" \" + convert_choice(doc[\"choice1\"]), \" \" + convert_choice(doc[\"choice2\"])]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "copa_es": {
+      "task": "copa_es",
+      "dataset_path": "BSC-LT/COPA-es",
+      "validation_split": "validation",
+      "test_split": "test",
+      "process_docs": "def process_docs_copa_es(dataset):\n    def _process_doc(doc):\n        doc[\"choice1\"] = lowercase_first_letter(doc[\"choice1\"])\n        doc[\"choice2\"] = lowercase_first_letter(doc[\"choice2\"])\n        return doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "{{premise[:-1].strip() + \" \" + {\"cause\": \"porque\", \"effect\": \"y por lo tanto\"}[question]}}",
+      "doc_to_target": "{{choice1 if label == 0 else choice2}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[choice1, choice2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_de": {
+      "task": "paws_de",
+      "dataset_path": "paws-x",
+      "dataset_name": "de",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "process_docs": "def process_docs_paraphrases(dataset):\n    empty_docs = []\n\n    def _process_doc(doc):\n        if doc[\"sentence1\"] not in [None, \"\"] and doc[\"sentence2\"] not in [None, \"\"]:\n            doc[\"sentence1\"] = general_detokenize(doc[\"sentence1\"]).strip()\n            doc[\"sentence2\"] = general_detokenize(doc[\"sentence2\"]).strip()\n            # Remove final punctuation mark in the first sentence\n            if doc[\"sentence1\"].endswith((\".\", \",\", \";\")):\n                doc[\"sentence1\"] = doc[\"sentence1\"][:-1]\n            # Start the second sentence in lowercase (to be used after \"Yes, ...\")\n            doc[\"sentence2\"] = lowercase_first_letter(doc[\"sentence2\"])\n            return doc\n        else:\n            empty_docs.append(doc)\n            return doc\n\n    if empty_docs != []:\n        len_empty_docs = len(empty_docs)\n        print(\n            f\"Found {len_empty_docs} empty documents out of the {len(dataset)} total docs in the dataset: {empty_docs}\"\n        )\n    return dataset.filter(\n        lambda doc: doc[\"sentence1\"] not in [None, \"\"]\n        and doc[\"sentence2\"] not in [None, \"\"]\n    ).map(_process_doc)\n",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", richtig? Nein, \"+sentence2, sentence1+\", richtig? Ja, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_en": {
+      "task": "paws_en",
+      "dataset_path": "paws-x",
+      "dataset_name": "en",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "process_docs": "def process_docs_paraphrases(dataset):\n    empty_docs = []\n\n    def _process_doc(doc):\n        if doc[\"sentence1\"] not in [None, \"\"] and doc[\"sentence2\"] not in [None, \"\"]:\n            doc[\"sentence1\"] = general_detokenize(doc[\"sentence1\"]).strip()\n            doc[\"sentence2\"] = general_detokenize(doc[\"sentence2\"]).strip()\n            # Remove final punctuation mark in the first sentence\n            if doc[\"sentence1\"].endswith((\".\", \",\", \";\")):\n                doc[\"sentence1\"] = doc[\"sentence1\"][:-1]\n            # Start the second sentence in lowercase (to be used after \"Yes, ...\")\n            doc[\"sentence2\"] = lowercase_first_letter(doc[\"sentence2\"])\n            return doc\n        else:\n            empty_docs.append(doc)\n            return doc\n\n    if empty_docs != []:\n        len_empty_docs = len(empty_docs)\n        print(\n            f\"Found {len_empty_docs} empty documents out of the {len(dataset)} total docs in the dataset: {empty_docs}\"\n        )\n    return dataset.filter(\n        lambda doc: doc[\"sentence1\"] not in [None, \"\"]\n        and doc[\"sentence2\"] not in [None, \"\"]\n    ).map(_process_doc)\n",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", right? No, \"+sentence2, sentence1+\", right? Yes, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_es": {
+      "task": "paws_es",
+      "dataset_path": "paws-x",
+      "dataset_name": "es",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "process_docs": "def process_docs_paraphrases(dataset):\n    empty_docs = []\n\n    def _process_doc(doc):\n        if doc[\"sentence1\"] not in [None, \"\"] and doc[\"sentence2\"] not in [None, \"\"]:\n            doc[\"sentence1\"] = general_detokenize(doc[\"sentence1\"]).strip()\n            doc[\"sentence2\"] = general_detokenize(doc[\"sentence2\"]).strip()\n            # Remove final punctuation mark in the first sentence\n            if doc[\"sentence1\"].endswith((\".\", \",\", \";\")):\n                doc[\"sentence1\"] = doc[\"sentence1\"][:-1]\n            # Start the second sentence in lowercase (to be used after \"Yes, ...\")\n            doc[\"sentence2\"] = lowercase_first_letter(doc[\"sentence2\"])\n            return doc\n        else:\n            empty_docs.append(doc)\n            return doc\n\n    if empty_docs != []:\n        len_empty_docs = len(empty_docs)\n        print(\n            f\"Found {len_empty_docs} empty documents out of the {len(dataset)} total docs in the dataset: {empty_docs}\"\n        )\n    return dataset.filter(\n        lambda doc: doc[\"sentence1\"] not in [None, \"\"]\n        and doc[\"sentence2\"] not in [None, \"\"]\n    ).map(_process_doc)\n",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", verdad? No, \"+sentence2, sentence1+\", verdad? Sí, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_fr": {
+      "task": "paws_fr",
+      "dataset_path": "paws-x",
+      "dataset_name": "fr",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "process_docs": "def process_docs_paraphrases(dataset):\n    empty_docs = []\n\n    def _process_doc(doc):\n        if doc[\"sentence1\"] not in [None, \"\"] and doc[\"sentence2\"] not in [None, \"\"]:\n            doc[\"sentence1\"] = general_detokenize(doc[\"sentence1\"]).strip()\n            doc[\"sentence2\"] = general_detokenize(doc[\"sentence2\"]).strip()\n            # Remove final punctuation mark in the first sentence\n            if doc[\"sentence1\"].endswith((\".\", \",\", \";\")):\n                doc[\"sentence1\"] = doc[\"sentence1\"][:-1]\n            # Start the second sentence in lowercase (to be used after \"Yes, ...\")\n            doc[\"sentence2\"] = lowercase_first_letter(doc[\"sentence2\"])\n            return doc\n        else:\n            empty_docs.append(doc)\n            return doc\n\n    if empty_docs != []:\n        len_empty_docs = len(empty_docs)\n        print(\n            f\"Found {len_empty_docs} empty documents out of the {len(dataset)} total docs in the dataset: {empty_docs}\"\n        )\n    return dataset.filter(\n        lambda doc: doc[\"sentence1\"] not in [None, \"\"]\n        and doc[\"sentence2\"] not in [None, \"\"]\n    ).map(_process_doc)\n",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", n'est-ce pas? Non, \"+sentence2, sentence1+\", n'est-ce pas? Oui, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_gl": {
+      "task": "paws_gl",
+      "dataset_path": "proxectonos/PAWS-gl",
+      "test_split": "test",
+      "process_docs": "def process_docs_paws(dataset):\n    empty_docs = []\n\n    def _process_doc(doc):\n        if doc[\"sentence1\"] not in [None, \"\"] and doc[\"sentence2\"] not in [None, \"\"]:\n            doc[\"sentence1\"] = general_detokenize(doc[\"sentence1\"]).strip()\n            doc[\"sentence2\"] = general_detokenize(doc[\"sentence2\"]).strip()\n            # Remove final punctuation mark in the first sentence\n            if doc[\"sentence1\"].endswith((\".\", \",\", \";\")):\n                doc[\"sentence1\"] = doc[\"sentence1\"][:-1]\n            # Start the second sentence in lowercase (to be used after \"Yes, ...\")\n            doc[\"sentence2\"] = lowercase_first_letter(doc[\"sentence2\"])\n            return doc\n        else:\n            empty_docs.append(doc)\n            return doc\n\n    if empty_docs != []:\n        len_empty_docs = len(empty_docs)\n        print(\n            f\"Found {len_empty_docs} empty documents out of the {len(dataset)} total docs in the dataset: {empty_docs}\"\n        )\n    return dataset.filter(\n        lambda doc: doc[\"sentence1\"] not in [None, \"\"]\n        and doc[\"sentence2\"] not in [None, \"\"]\n    ).map(_process_doc)\n",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", verdadeiro? Non, \"+sentence2, sentence1+\", verdadeiro? Si, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_sw": {
+      "task": "paws_sw",
+      "dataset_path": "data/paws-x/paws-x_sw.csv",
+      "dataset_name": "sw",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", sawa? Hapana, \"+sentence2, sentence1+\", sawa? Ndio, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "paws_ur": {
+      "task": "paws_ur",
+      "dataset_path": "data/paws-x/paws-x_ur.csv",
+      "dataset_name": "ur",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", sawa? Hapana, \"+sentence2, sentence1+\", sawa? Ndio, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xcopa_gl": {
+      "task": "xcopa_gl",
+      "dataset_path": "data/xcopa/xcopa_gl.csv",
+      "dataset_name": "gl",
+      "validation_split": "test",
+      "test_split": "test",
+      "doc_to_text": "functools.partial(<function doc_to_text at 0x154158de0040>, connector={'cause': 'sest', 'effect': 'seetõttu'})",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [convert_choice(doc[\"choice1\"]), convert_choice(doc[\"choice2\"])]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xcopa_it": {
+      "task": "xcopa_it",
+      "dataset_path": "xcopa",
+      "dataset_name": "it",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "functools.partial(<function doc_to_text at 0x154158f53c40>, connector={'cause': 'perché', 'effect': 'quindi'})",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [convert_choice(doc[\"choice1\"]), convert_choice(doc[\"choice2\"])]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xcopa_sw": {
+      "task": "xcopa_sw",
+      "dataset_path": "xcopa",
+      "dataset_name": "sw",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "functools.partial(<function doc_to_text at 0x154158de1620>, connector={'cause': 'kwa sababu', 'effect': 'kwa hiyo'})",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [convert_choice(doc[\"choice1\"]), convert_choice(doc[\"choice2\"])]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xcopa_th": {
+      "task": "xcopa_th",
+      "dataset_path": "xcopa",
+      "dataset_name": "th",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "functools.partial(<function doc_to_text at 0x154158de2160>, connector={'cause': 'เพราะ', 'effect': 'ดังนั้น'})",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [convert_choice(doc[\"choice1\"]), convert_choice(doc[\"choice2\"])]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xcopa_ur": {
+      "task": "xcopa_ur",
+      "dataset_path": "data/xcopa/xcopa_ur.csv",
+      "dataset_name": "ur",
+      "validation_split": "test",
+      "test_split": "test",
+      "doc_to_text": "functools.partial(<function doc_to_text at 0x154158de1bc0>, connector={'cause': 'sest', 'effect': 'seetõttu'})",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [convert_choice(doc[\"choice1\"]), convert_choice(doc[\"choice2\"])]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_de": {
+      "task": "xnli_de",
+      "dataset_path": "xnli",
+      "dataset_name": "de",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", richtig? Ja, \"+hypothesis,premise+\", richtig? Auch, \"+hypothesis,premise+\", richtig? Nein, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_en": {
+      "task": "xnli_en",
+      "dataset_path": "xnli",
+      "dataset_name": "en",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", right? Yes, \"+hypothesis,premise+\", right? Also, \"+hypothesis,premise+\", right? No, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_es": {
+      "task": "xnli_es",
+      "dataset_path": "xnli",
+      "dataset_name": "es",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", correcto? Sí, \"+hypothesis,premise+\", correcto? Asi que, \"+hypothesis,premise+\", correcto? No, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_fr": {
+      "task": "xnli_fr",
+      "dataset_path": "xnli",
+      "dataset_name": "fr",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", correct? Oui, \"+hypothesis,premise+\", correct? Aussi, \"+hypothesis,premise+\", correct? Non, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_gl": {
+      "task": "xnli_gl",
+      "dataset_path": "proxectonos/xnli_gl",
+      "test_split": "test",
+      "process_docs": "def process_doc_nli(dataset):\n    def process_fn(doc):\n        # Detokenize(remove extra whitespaces)\n        doc[\"sentence1\"] = general_detokenize(doc[\"sentence1\"]).strip()\n        doc[\"sentence2\"] = general_detokenize(doc[\"sentence2\"]).strip()\n        # Remove last punctuation mark in the sentence1\n        doc[\"sentence1\"] = (\n            doc[\"sentence1\"][:-1]\n            if doc[\"sentence1\"].endswith((\".\", \",\", \"!\", \"?\"))\n            else doc[\"sentence1\"]\n        )\n        # Lowercase the first letter in the sentence2\n        doc[\"sentence2\"] = lowercase_first_letter(doc[\"sentence2\"])\n        # Ensure that the sentence2 ends with a dot\n        doc[\"sentence2\"] = (\n            (doc[\"sentence2\"] + \".\")\n            if not doc[\"sentence2\"].endswith(\".\")\n            else doc[\"sentence2\"]\n        )\n        # map label names to int\n        label_to_int = {\"entailment\": 0, \"neutral\": 1, \"contradiction\": 2}\n        doc[\"gold_label\"] = label_to_int[doc[\"gold_label\"]]\n        return doc\n\n    return dataset.map(process_fn)\n",
+      "doc_to_text": "",
+      "doc_to_target": "gold_label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence1+\", verdadeiro? Si, \"+sentence2,sentence1+\", verdadeiro? Ademais, \"+sentence2,sentence1+\", verdadeiro? Non, \"+sentence2]}}",
+      "description": "",
+      "target_delimiter": "",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_hi": {
+      "task": "xnli_hi",
+      "dataset_path": "xnli",
+      "dataset_name": "hi",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", सही? हाँ, \"+hypothesis,premise+\", सही? इसलिए, \"+hypothesis,premise+\", सही? नहीं, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_sw": {
+      "task": "xnli_sw",
+      "dataset_path": "xnli",
+      "dataset_name": "sw",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", sahihi? Ndiyo, \"+hypothesis,premise+\", sahihi? Hivyo, \"+hypothesis,premise+\", sahihi? Hapana, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_th": {
+      "task": "xnli_th",
+      "dataset_path": "xnli",
+      "dataset_name": "th",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", ถูกต้อง? ใช่, \"+hypothesis,premise+\", ถูกต้อง? ดังนั้น, \"+hypothesis,premise+\", ถูกต้อง? ไม่, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xnli_ur": {
+      "task": "xnli_ur",
+      "dataset_path": "xnli",
+      "dataset_name": "ur",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "",
+      "doc_to_target": "label",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[premise+\", صحیح? جی ہاں, \"+hypothesis,premise+\", صحیح? اس لئے, \"+hypothesis,premise+\", صحیح? نہیں, \"+hypothesis]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xstorycloze_en": {
+      "task": "xstorycloze_en",
+      "dataset_path": "juletxara/xstory_cloze",
+      "dataset_name": "en",
+      "training_split": "train",
+      "validation_split": "eval",
+      "doc_to_text": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "doc_to_target": "{{answer_right_ending-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence_quiz1, sentence_quiz2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xstorycloze_es": {
+      "task": "xstorycloze_es",
+      "dataset_path": "juletxara/xstory_cloze",
+      "dataset_name": "es",
+      "training_split": "train",
+      "validation_split": "eval",
+      "doc_to_text": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "doc_to_target": "{{answer_right_ending-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence_quiz1, sentence_quiz2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xstorycloze_gl": {
+      "task": "xstorycloze_gl",
+      "dataset_path": "proxectonos/xstorycloze_gl",
+      "training_split": "train",
+      "validation_split": "test",
+      "doc_to_text": "{{[InputSentence1, InputSentence2, InputSentence3, InputSentence4]|join(' ')}}",
+      "doc_to_target": "{{AnswerRightEnding-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[RandomFifthSentenceQuiz1, RandomFifthSentenceQuiz2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "{{[InputSentence1, InputSentence2, InputSentence3, InputSentence4]|join(' ')}}",
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xstorycloze_hi": {
+      "task": "xstorycloze_hi",
+      "dataset_path": "juletxara/xstory_cloze",
+      "dataset_name": "hi",
+      "training_split": "train",
+      "validation_split": "eval",
+      "doc_to_text": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "doc_to_target": "{{answer_right_ending-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence_quiz1, sentence_quiz2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    },
+    "xstorycloze_sw": {
+      "task": "xstorycloze_sw",
+      "dataset_path": "juletxara/xstory_cloze",
+      "dataset_name": "sw",
+      "training_split": "train",
+      "validation_split": "eval",
+      "doc_to_text": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "doc_to_target": "{{answer_right_ending-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{[sentence_quiz1, sentence_quiz2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "{{[input_sentence_1, input_sentence_2, input_sentence_3, input_sentence_4]|join(' ')}}",
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "google/gemma-3-12B-pt",
+        "peft": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora"
+      }
+    }
+  },
+  "versions": {
+    "copa": 1.0,
+    "copa_es": 1.0,
+    "paws_de": 1.0,
+    "paws_en": 1.0,
+    "paws_es": 1.0,
+    "paws_fr": 1.0,
+    "paws_gl": 1.0,
+    "paws_sw": 1.0,
+    "paws_ur": 1.0,
+    "xcopa_gl": 1.0,
+    "xcopa_it": 1.0,
+    "xcopa_sw": 1.0,
+    "xcopa_th": 1.0,
+    "xcopa_ur": 1.0,
+    "xnli_de": 1.0,
+    "xnli_en": 1.0,
+    "xnli_es": 1.0,
+    "xnli_fr": 1.0,
+    "xnli_gl": 1.0,
+    "xnli_hi": 1.0,
+    "xnli_sw": 1.0,
+    "xnli_th": 1.0,
+    "xnli_ur": 1.0,
+    "xstorycloze_en": 1.0,
+    "xstorycloze_es": 1.0,
+    "xstorycloze_gl": 1.0,
+    "xstorycloze_hi": 1.0,
+    "xstorycloze_sw": 1.0
+  },
+  "n-shot": {
+    "copa": 0,
+    "copa_es": 0,
+    "paws_de": 0,
+    "paws_en": 0,
+    "paws_es": 0,
+    "paws_fr": 0,
+    "paws_gl": 0,
+    "paws_sw": 0,
+    "paws_ur": 0,
+    "xcopa_gl": 0,
+    "xcopa_it": 0,
+    "xcopa_sw": 0,
+    "xcopa_th": 0,
+    "xcopa_ur": 0,
+    "xnli_de": 0,
+    "xnli_en": 0,
+    "xnli_es": 0,
+    "xnli_fr": 0,
+    "xnli_gl": 0,
+    "xnli_hi": 0,
+    "xnli_sw": 0,
+    "xnli_th": 0,
+    "xnli_ur": 0,
+    "xstorycloze_en": 0,
+    "xstorycloze_es": 0,
+    "xstorycloze_gl": 0,
+    "xstorycloze_hi": 0,
+    "xstorycloze_sw": 0
+  },
+  "higher_is_better": {
+    "copa": {
+      "acc": true
+    },
+    "copa_es": {
+      "acc": true
+    },
+    "paws_de": {
+      "acc": true
+    },
+    "paws_en": {
+      "acc": true
+    },
+    "paws_es": {
+      "acc": true
+    },
+    "paws_fr": {
+      "acc": true
+    },
+    "paws_gl": {
+      "acc": true
+    },
+    "paws_sw": {
+      "acc": true
+    },
+    "paws_ur": {
+      "acc": true
+    },
+    "xcopa_gl": {
+      "acc": true
+    },
+    "xcopa_it": {
+      "acc": true
+    },
+    "xcopa_sw": {
+      "acc": true
+    },
+    "xcopa_th": {
+      "acc": true
+    },
+    "xcopa_ur": {
+      "acc": true
+    },
+    "xnli_de": {
+      "acc": true
+    },
+    "xnli_en": {
+      "acc": true
+    },
+    "xnli_es": {
+      "acc": true
+    },
+    "xnli_fr": {
+      "acc": true
+    },
+    "xnli_gl": {
+      "acc": true
+    },
+    "xnli_hi": {
+      "acc": true
+    },
+    "xnli_sw": {
+      "acc": true
+    },
+    "xnli_th": {
+      "acc": true
+    },
+    "xnli_ur": {
+      "acc": true
+    },
+    "xstorycloze_en": {
+      "acc": true
+    },
+    "xstorycloze_es": {
+      "acc": true
+    },
+    "xstorycloze_gl": {
+      "acc": true
+    },
+    "xstorycloze_hi": {
+      "acc": true
+    },
+    "xstorycloze_sw": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "xstorycloze_sw": {
+      "original": 1511,
+      "effective": 1511
+    },
+    "xstorycloze_hi": {
+      "original": 1511,
+      "effective": 1511
+    },
+    "xstorycloze_gl": {
+      "original": 1511,
+      "effective": 1511
+    },
+    "xstorycloze_es": {
+      "original": 1511,
+      "effective": 1511
+    },
+    "xstorycloze_en": {
+      "original": 1511,
+      "effective": 1511
+    },
+    "xnli_ur": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_th": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_sw": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_hi": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_gl": {
+      "original": 5009,
+      "effective": 5009
+    },
+    "xnli_fr": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_es": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_en": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xnli_de": {
+      "original": 2490,
+      "effective": 2490
+    },
+    "xcopa_ur": {
+      "original": 500,
+      "effective": 500
+    },
+    "xcopa_th": {
+      "original": 500,
+      "effective": 500
+    },
+    "xcopa_sw": {
+      "original": 500,
+      "effective": 500
+    },
+    "xcopa_it": {
+      "original": 500,
+      "effective": 500
+    },
+    "xcopa_gl": {
+      "original": 500,
+      "effective": 500
+    },
+    "paws_ur": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "paws_sw": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "paws_gl": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "paws_fr": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "paws_es": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "paws_en": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "paws_de": {
+      "original": 2000,
+      "effective": 2000
+    },
+    "copa_es": {
+      "original": 500,
+      "effective": 500
+    },
+    "copa": {
+      "original": 100,
+      "effective": 100
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=google/gemma-3-12B-pt,peft=/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora,trust_remote_code=True",
+    "model_num_parameters": 13787975424,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "295efb63d01a7017928f273a94ebb86105c9526f",
+    "peft_sha": "",
+    "batch_size": "32",
+    "batch_sizes": [],
+    "device": "cuda:0",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "75920e09",
+  "date": 1749450679.4131129,
+  "pretty_env_info": "PyTorch version: 2.7.1+cu126\nIs debug build: False\nCUDA used to build PyTorch: 12.6\nROCM used to build PyTorch: N/A\n\nOS: Red Hat Enterprise Linux 9.4 (Plow) (x86_64)\nGCC version: (GCC) 11.4.1 20231218 (Red Hat 11.4.1-4)\nClang version: Could not collect\nCMake version: version 3.26.5\nLibc version: glibc-2.34\n\nPython version: 3.11.12 | packaged by conda-forge | (main, Apr 10 2025, 22:23:25) [GCC 13.3.0] (64-bit runtime)\nPython platform: Linux-5.14.0-427.59.1.el9_4.x86_64-x86_64-with-glibc2.34\nIs CUDA available: True\nCUDA runtime version: Could not collect\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA H100\nNvidia driver version: 550.90.12\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                         x86_64\nCPU op-mode(s):                       32-bit, 64-bit\nAddress sizes:                        46 bits physical, 57 bits virtual\nByte Order:                           Little Endian\nCPU(s):                               104\nOn-line CPU(s) list:                  0-103\nVendor ID:                            GenuineIntel\nModel name:                           Intel(R) Xeon(R) Platinum 8470\nCPU family:                           6\nModel:                                143\nThread(s) per core:                   1\nCore(s) per socket:                   52\nSocket(s):                            2\nStepping:                             8\nCPU(s) scaling MHz:                   100%\nCPU max MHz:                          3800.0000\nCPU min MHz:                          800.0000\nBogoMIPS:                             4000.00\nFlags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cat_l2 cdp_l3 cdp_l2 ssbd mba ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect avx_vnni avx512_bf16 wbnoinvd dtherm ida arat pln pts avx512vbmi umip pku ospke waitpkg avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid bus_lock_detect cldemote movdiri movdir64b enqcmd fsrm md_clear serialize tsxldtrk pconfig arch_lbr ibt amx_bf16 avx512_fp16 amx_tile amx_int8 flush_l1d arch_capabilities\nL1d cache:                            4.9 MiB (104 instances)\nL1i cache:                            3.3 MiB (104 instances)\nL2 cache:                             208 MiB (104 instances)\nL3 cache:                             210 MiB (2 instances)\nNUMA node(s):                         8\nNUMA node0 CPU(s):                    0,8,16,24,32,40,48,56,64,72,80,88,96\nNUMA node1 CPU(s):                    4,12,20,28,36,44,52,60,68,76,84,92,100\nNUMA node2 CPU(s):                    2,10,18,26,34,42,50,58,66,74,82,90,98\nNUMA node3 CPU(s):                    6,14,22,30,38,46,54,62,70,78,86,94,102\nNUMA node4 CPU(s):                    1,9,17,25,33,41,49,57,65,73,81,89,97\nNUMA node5 CPU(s):                    5,13,21,29,37,45,53,61,69,77,85,93,101\nNUMA node6 CPU(s):                    3,11,19,27,35,43,51,59,67,75,83,91,99\nNUMA node7 CPU(s):                    7,15,23,31,39,47,55,63,71,79,87,95,103\nVulnerability Gather data sampling:   Not affected\nVulnerability Itlb multihit:          Not affected\nVulnerability L1tf:                   Not affected\nVulnerability Mds:                    Not affected\nVulnerability Meltdown:               Not affected\nVulnerability Mmio stale data:        Not affected\nVulnerability Reg file data sampling: Not affected\nVulnerability Retbleed:               Not affected\nVulnerability Spec rstack overflow:   Not affected\nVulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S\nVulnerability Srbds:                  Not affected\nVulnerability Tsx async abort:        Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==2.2.6\n[pip3] nvidia-cublas-cu12==12.6.4.1\n[pip3] nvidia-cuda-cupti-cu12==12.6.80\n[pip3] nvidia-cuda-nvrtc-cu12==12.6.77\n[pip3] nvidia-cuda-runtime-cu12==12.6.77\n[pip3] nvidia-cudnn-cu12==9.5.1.17\n[pip3] nvidia-cufft-cu12==11.3.0.4\n[pip3] nvidia-curand-cu12==10.3.7.77\n[pip3] nvidia-cusolver-cu12==11.7.1.2\n[pip3] nvidia-cusparse-cu12==12.5.4.2\n[pip3] nvidia-cusparselt-cu12==0.6.3\n[pip3] nvidia-nccl-cu12==2.26.2\n[pip3] nvidia-nvjitlink-cu12==12.6.85\n[pip3] nvidia-nvtx-cu12==12.6.77\n[pip3] torch==2.7.1\n[pip3] torchaudio==2.7.1\n[pip3] torchvision==0.22.1\n[pip3] triton==3.3.1\n[conda] numpy                     2.2.6                    pypi_0    pypi\n[conda] nvidia-cublas-cu12        12.6.4.1                 pypi_0    pypi\n[conda] nvidia-cuda-cupti-cu12    12.6.80                  pypi_0    pypi\n[conda] nvidia-cuda-nvrtc-cu12    12.6.77                  pypi_0    pypi\n[conda] nvidia-cuda-runtime-cu12  12.6.77                  pypi_0    pypi\n[conda] nvidia-cudnn-cu12         9.5.1.17                 pypi_0    pypi\n[conda] nvidia-cufft-cu12         11.3.0.4                 pypi_0    pypi\n[conda] nvidia-curand-cu12        10.3.7.77                pypi_0    pypi\n[conda] nvidia-cusolver-cu12      11.7.1.2                 pypi_0    pypi\n[conda] nvidia-cusparse-cu12      12.5.4.2                 pypi_0    pypi\n[conda] nvidia-cusparselt-cu12    0.6.3                    pypi_0    pypi\n[conda] nvidia-nccl-cu12          2.26.2                   pypi_0    pypi\n[conda] nvidia-nvjitlink-cu12     12.6.85                  pypi_0    pypi\n[conda] nvidia-nvtx-cu12          12.6.77                  pypi_0    pypi\n[conda] torch                     2.7.1                    pypi_0    pypi\n[conda] torchaudio                2.7.1                    pypi_0    pypi\n[conda] torchvision               0.22.1                   pypi_0    pypi\n[conda] triton                    3.3.1                    pypi_0    pypi",
+  "transformers_version": "4.52.4",
+  "lm_eval_version": "0.4.8",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<pad>",
+    "0"
+  ],
+  "tokenizer_eos_token": [
+    "<eos>",
+    "1"
+  ],
+  "tokenizer_bos_token": [
+    "<bos>",
+    "2"
+  ],
+  "eot_token_id": 1,
+  "max_length": 131072,
+  "task_hashes": {},
+  "model_source": "hf",
+  "model_name": "/fs/ess/PAS2836/owos/experiments/embed2/emebedding-init/src/experiments/gemma3_12B_swa_partial_lora",
+  "model_name_sanitized": "__fs__ess__PAS2836__owos__experiments__embed2__emebedding-init__src__experiments__gemma3_12B_swa_partial_lora",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 2275436.014103287,
+  "end_time": 2277066.7467926,
+  "total_evaluation_time_seconds": "1630.7326893131249"
+}
