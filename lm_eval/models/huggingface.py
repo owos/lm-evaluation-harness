@@ -536,7 +536,13 @@ class HFLM(TemplateLM):
 
         if self.AUTO_MODEL_CLASS is None:
             if self.backend == "causal":
-                self.AUTO_MODEL_CLASS = transformers.AutoModelForCausalLM
+                if "gemma" in getattr(self.config, "model_type", ""):
+                    # Gemma models are decoder-only, but use a different class
+                    # self.AUTO_MODEL_CLASS = transformers.Gemma3ForCausalLM
+                    pass
+                else:
+
+                    self.AUTO_MODEL_CLASS = transformers.AutoModelForCausalLM
             elif self.backend == "seq2seq":
                 self.AUTO_MODEL_CLASS = transformers.AutoModelForSeq2SeqLM
 
@@ -683,7 +689,8 @@ class HFLM(TemplateLM):
                 eval_logger.info(
                     f"Model config indicates vocab_size='{self._model.config.vocab_size}', but found tokenizer with vocab size '{len(self.tokenizer)}'. Resizing model embedding layer..."
                 )
-                self._model.resize_token_embeddings(len(self.tokenizer))
+                ...
+                #self._model.resize_token_embeddings(len(self.tokenizer))
             self._model = PeftModel.from_pretrained(
                 self._model, peft, revision=revision
             )
@@ -827,7 +834,7 @@ class HFLM(TemplateLM):
             # if multi-GPU, always take minimum over all selected batch sizes
             max_rnk_bs = torch.tensor([batch_size], device=self.device)
             gathered = (
-                self.accelerator.gather(max_rnk_bs).cpu().detach().numpy().tolist()
+                self.   accelerator.gather(max_rnk_bs).cpu().detach().numpy().tolist()
             )
             batch_size = min(gathered)
             clear_torch_cache()
@@ -922,19 +929,23 @@ class HFLM(TemplateLM):
                 device_type=self.device.type,
                 dtype=self.mixed_precision_dtype,
                 enabled=self.mixed_precision_dtype is not None,
-            ):
+            ):  
                 if attn_mask is not None or labels is not None:
                     assert attn_mask is not None and labels is not None
                     assert self.AUTO_MODEL_CLASS == transformers.AutoModelForSeq2SeqLM
-                    return self.model(
+                    output = self.model(
                         input_ids=inps, attention_mask=attn_mask, labels=labels
-                    ).logits
-                else:
+                    )
+                    logits = output.logits
+                    return logits
+                else:   
                     assert self.AUTO_MODEL_CLASS in (
                         transformers.AutoModelForCausalLM,
+                        # transformers.Gemma3ForCausalLM,
                         transformers.AutoModelForVision2Seq,
                     )
-                    return self.model(inps).logits
+                    output = self.model(inps)
+                    return output.logits
 
     def _model_generate(self, context, max_length, stop, **generation_kwargs):
         # temperature = 0.0 if not set
@@ -1128,6 +1139,7 @@ class HFLM(TemplateLM):
             else None,
             group_fn=_lookup_one_token_cont,
         )
+        self.re_ord = re_ord  # store for later use
 
         # automatic (variable) batch size detection for vectorization
         # pull longest context sample from request
@@ -1202,7 +1214,6 @@ class HFLM(TemplateLM):
                         device=self.device,
                     )
                     (inplen,) = inp.shape
-
                     # build encoder attn masks
                     encoder_attns.append(torch.ones_like(inp))
 
@@ -1233,6 +1244,7 @@ class HFLM(TemplateLM):
                 cont_toks_list.append(continuation_enc)
                 inplens.append(inplen)
 
+
             # create encoder attn mask and batched conts, if seq2seq
             call_kwargs = {}
             if self.backend == "causal":
@@ -1254,7 +1266,6 @@ class HFLM(TemplateLM):
                     "attn_mask": batched_encoder_mask,
                     "labels": batched_conts,
                 }
-
             multi_logits = F.log_softmax(
                 self._model_call(batched_inps, **call_kwargs),
                 dim=-1,
@@ -1275,6 +1286,7 @@ class HFLM(TemplateLM):
                     if self.backend == "causal"
                     else None
                 )
+
                 logits = self._select_cont_toks(logits, contlen=contlen, inplen=ctx_len)
                 logits = logits.unsqueeze(0)  # [1, seq, vocab]
 
@@ -1538,3 +1550,4 @@ class HFLM(TemplateLM):
         if self.delta:
             model_info["delta_sha"] = get_model_sha(self.delta, self.revision)
         return model_info
+# e4a7b69fe0fc6cb430e12cf15c4109bf28185124
